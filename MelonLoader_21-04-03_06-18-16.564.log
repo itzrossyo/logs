@@ -1,0 +1,379 @@
+[06:18:16.571] ------------------------------
+[06:18:16.572] MelonLoader v0.3.0 ALPHA Pre-Release
+[06:18:16.572] Hash Code: 25889
+[06:18:16.572] OS: Windows 10
+[06:18:16.573] ------------------------------
+[06:18:16.573] Name: VRChat
+[06:18:16.573] Developer: VRChat
+[06:18:16.573] Unity Version: 2018.4.20
+[06:18:16.574] Type: Il2Cpp
+[06:18:16.574] Arch: x64
+[06:18:16.574] ------------------------------
+
+[06:18:16.875] Contacting RemoteAPI...
+[06:18:17.009] ForceDumperVersion = null
+[06:18:17.009] ForceUnhollowerVersion = null
+[06:18:17.010] ObfuscationRegex = null
+[06:18:17.010] MappingURL = https://github.com/LavaGang/Deobfuscation-Maps/raw/master/VRChat/1069.0.csv.gz
+[06:18:17.010] MappingFileSHA512 = 8bd05422a03f5f1c8120fbbd6f64827563ebf648e1397211a0112415f2b2be61a3890dc61fe3d8919d78df3395e122590beddf3aa5a60302dda26c4d9eb49963
+[06:18:17.049] Unity Dependencies are up to date. No Download Needed.
+[06:18:17.049] Il2CppDumper is up to date. No Download Needed.
+[06:18:17.050] Il2CppAssemblyUnhollower is up to date. No Download Needed.
+[06:18:17.050] Deobfuscation Map is up to date. No Download Needed.
+[06:18:17.050] Checking GameAssembly...
+[06:18:17.050] Old: c0bc5e13a49a2e19ef378ef7bbe122bb
+[06:18:17.050] Current: c0bc5e13a49a2e19ef378ef7bbe122bb
+[06:18:17.051] Assembly is up to date. No Generation Needed.
+
+[06:18:17.364] Preferences Loaded!
+[06:18:17.369] Loading Plugins...
+
+[06:18:17.374] ------------------------------
+[06:18:17.375] No Plugins Loaded!
+[06:18:17.375] ------------------------------
+
+[06:18:17.929] Loading Support Module...
+
+[06:18:18.032] Loading Mods...
+[06:18:18.067] [ERROR] No MelonInfoAttribute Found in F:\SteamLibrary\steamapps\common\VRChat\Mods\LiteDB.dll!
+[06:18:18.086] [ERROR] ===================================================================
+[06:18:18.087] [ERROR] You're using MelonLoader with important security features missing.
+[06:18:18.087] [ERROR] This exposes you to additional risks from certain malicious actors,
+[06:18:18.088] [ERROR] including account theft, account bans, and other unwanted consequences
+[06:18:18.088] [ERROR] If this is not what you want, download the official installer from
+[06:18:18.089] [ERROR] https://github.com/LavaGang/MelonLoader/releases
+[06:18:18.089] [ERROR] then close this console, and reinstall MelonLoader using it.
+[06:18:18.090] [ERROR] If you want to accept those risks, press Enter to continue
+[06:18:18.090] [ERROR] ===================================================================
+
+[06:18:21.792] ------------------------------
+[06:18:21.793] 11 Mods Loaded
+[06:18:21.794] ------------------------------
+[06:18:21.794] ActionMenuRespawn v1.3.0
+[06:18:21.795] by gompo#6956
+[06:18:21.798] SHA256 Hash: 23b68ad670299c91860bf36c8604b9eb27eb28341606b86e8bb4ed9685630d5a
+[06:18:21.798] ------------------------------
+[06:18:21.799] AvatarHider v1.1.1
+[06:18:21.799] by ImTiara
+[06:18:21.800] SHA256 Hash: d589a73e79a7a88f618bd6017fd318b0ff68a4bdb89229cdb0f7fdef3a8b6d96
+[06:18:21.801] ------------------------------
+[06:18:21.801] emmVRCLoader v1.1.0
+[06:18:21.802] by The emmVRC Team
+[06:18:21.802] SHA256 Hash: 32ae170da2609f1d816578eba25f1da7d11933d4354b4fb188c1a7750c55f5a2
+[06:18:21.803] ------------------------------
+[06:18:21.803] Final IK Sanity v1.0.0
+[06:18:21.804] by Ben
+[06:18:21.804] SHA256 Hash: d87199e7c8e7d8520997b9cd0e14961d26939f07e2575fbd60085431ef798a97
+[06:18:21.805] ------------------------------
+[06:18:21.805] JoinNotifier v0.2.8
+[06:18:21.806] by knah
+[06:18:21.807] SHA256 Hash: 036ae123eefef3510ce3acbf0c14ac468ce15e6428d43218ef2b6ba756e308dd
+[06:18:21.808] ------------------------------
+[06:18:21.808] TeoLoader v100.500.0
+[06:18:21.810] by Teo
+[06:18:21.812] SHA256 Hash: b9c45f90531dc7ee5497f7d2bb10ed43f65ddfc587dfa2919a082a7edf2617d4
+[06:18:21.812] ------------------------------
+[06:18:21.812] UI Expansion Kit v0.2.3
+[06:18:21.813] by knah
+[06:18:21.816] SHA256 Hash: e0899b16ab5fb3aa25557817bec5cf2ae6f1d9ae80287d21a2370763f90111a3
+[06:18:21.817] ------------------------------
+[06:18:21.817] BTKSANameplateMod v2.2.4
+[06:18:21.818] by DDAkebono#0001
+[06:18:21.819] SHA256 Hash: 8a7e20738569c36cb64b9352849b8e0451fedeaa89a17411ccef7a8e3e43c227
+[06:18:21.819] ------------------------------
+[06:18:21.819] Safety-Presets v0.0.3
+[06:18:21.820] by 死神#6938
+[06:18:21.821] SHA256 Hash: 62cde2babfbf8ec72abd5e1fbd7ae20f0c8050535d77b1d1c1178c015c723862
+[06:18:21.821] ------------------------------
+[06:18:21.822] True Shader Anticrash v1.0.0
+[06:18:21.823] by knah
+[06:18:21.825] SHA256 Hash: 831c8a61f84afbe232ff1bac7453722b866f0542ec9af7e888d5fb90ec7a3cbd
+[06:18:21.826] ------------------------------
+[06:18:21.826] UserInfoExtensions v2.3.3
+[06:18:21.827] by loukylor
+[06:18:21.828] SHA256 Hash: 43920445fdbe3e110f5a970c2e5f4ec6c5b2706cb47b456cf80e0f151a835307
+[06:18:21.829] ------------------------------
+[06:18:22.036] [ActionMenuRespawn] Found Options Page:Method_Public_Void_PDM_1
+[06:18:22.085] [emmVRCLoader] [emmVRCLoader] Checking if emmVRC can Load...
+[06:18:22.381] [emmVRCLoader] [emmVRCLoader] emmVRC can be loaded!
+[06:18:22.382] [emmVRCLoader] [emmVRCLoader] Downloading emmVRC...
+[06:18:22.569] [emmVRCLoader] [emmVRCLoader] OnApplicationStart called
+[06:18:22.606] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:22.609] [TeoLoader] OnApplicationStart
+[06:18:22.727] [Safety-Presets] [NotAnError] -> No presets to populate dropdowns in the mod settings.
+[06:18:22.821] [UserInfoExtensions] [ERROR] Error while trying to run method "Init" in module "UserInfoExtentions.Utilities.VRCUtils:"
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.InvalidOperationException: Sequence contains no elements
+  at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x00010] in <fbb5ed17eb6e46c680000f8910ebb50c>:0 
+  at UserInfoExtentions.Utilities.VRCUtils.Init () [0x00071] in <6c6db1306766424eb0db79b7709c6589>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at UserInfoExtentions.Utilities.VRCUtils.TryExecuteMethod (System.Reflection.MethodInfo method, System.Object instance, System.Object[] parameters) [0x00002] in <6c6db1306766424eb0db79b7709c6589>:0 
+[06:18:22.846] [UserInfoExtensions] Initialized!
+[06:18:23.954] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:24.341] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:24.793] [emmVRCLoader] VRChat build is: 1069
+[06:18:24.794] [emmVRCLoader] Initializing network...
+[06:18:25.385] [emmVRCLoader] Initialization is successful in 00.5s. Welcome to emmVRC!
+[06:18:25.386] [emmVRCLoader] You are running version 2.8.3
+[06:18:25.387] [TeoLoader] VRChat_OnUiManagerInit
+[06:18:25.390] [TeoLoader] Try load preloader.dll
+[06:18:26.383] [FakeDeviceID] True device id is 866f4c28258f4075ded45273c4a57e63f98056a0
+[06:18:26.387] [FakeDeviceID] New(fake) device id is 7aa5aea3f03952f524b623f11fc56ac4a2806e33
+[06:18:26.421] [CheckLoaderVersion] loader size : 68096
+[06:18:26.627] [CheckLoaderVersion] downloaded 68096
+[06:18:26.630] [BTKSANameplateMod] BTK Standalone: Nameplate Mod - Starting up
+[06:18:26.673] [BTKSANameplateMod] Loading Nameplate Assets
+[06:18:26.675] [BTKSANameplateMod] Loaded Embedded resource
+[06:18:26.695] [UserInfoExtensions] UI Initialized!
+[06:18:26.697] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:26.778] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:26.787] [UI_Expansion_Kit] Decorating menus
+[06:18:26.823] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:26.829] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:26.836] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:26.888] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:26.910] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:26.916] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:26.924] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:26.930] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:26.937] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:26.944] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:26.951] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:26.958] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:26.964] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:26.971] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:26.978] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:26.985] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:26.992] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:26.999] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.006] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.013] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.019] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.026] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.033] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.040] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.047] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.053] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.060] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.067] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.074] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.081] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.088] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.095] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.102] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.108] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.119] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.122] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.129] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.136] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.143] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.149] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.156] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.163] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.170] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.177] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.183] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.190] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.197] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.204] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.211] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.218] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.225] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.232] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.239] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.245] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.252] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.259] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.266] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.272] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.280] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.286] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.293] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.300] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.307] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.314] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.321] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.327] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.334] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.341] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.348] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.355] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.362] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.369] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.376] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.382] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.389] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.396] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.403] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.410] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.416] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.423] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.430] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.437] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.444] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:27.450] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[06:18:29.545] MessageBox_Show_string : This assembly is protected by an unregistered version of Eziriz's ".NET Reactor"!
+[06:18:29.562] Server Version : Release_2018_server_1067
+[06:18:29.565] VRChat build : 1069
+[06:18:29.572] 100.500.7762.37536
+[06:18:29.840] Settings Loaded
+[06:18:29.841] CheckAndApply
+[06:18:29.842] Settings states
+[06:18:29.843] settings.DiscordRpcAppId 823353338917290044
+[06:18:29.844] settings.Console True
+[06:18:29.844] settings.FpsMaxLimit 100
+[06:18:29.845] settings.FpsMinLimit 25
+[06:18:29.845] settings.fieldOfView 90
+[06:18:29.848] settings.EmojiWhenSpeakingNumber 26
+[06:18:29.849] AntiCrashLimiterFile exists C:\Users\rosse\AppData\LocalLow\VRChat\VRChat\config.json
+[06:18:29.934] [VRCUiManagerUtils] CloseUi found 
+[06:18:29.949] [VRCUiManagerUtils] OpenUi found 
+[06:18:29.998] [VRCFlowManager] EnterWorld Found
+[06:18:30.210] [NetworkManagerUtils] NetworkManager found : NetworkManager
+[06:18:30.330] [UiUserListPatches] UiUserListType found : UiUserList
+[06:18:30.375] [UiAvatarListPatches] UiAvatarListType found : UiAvatarList
+[06:18:30.532] [AntiCrash] VRCAvatarManager AttachAvatarEnumerator Count 2
+[06:18:30.625] [AntiCrash] Patch Nested : 
+[06:18:30.628] ObjectNPrivateSealedIEnumerator1ObjectIEnumeratorIDisposableInObGaApObBoBoBoObObUnique
+[06:18:30.639] ObjectNPrivateSealedIEnumerator1ObjectIEnumeratorIDisposableInObAcOb1GaApAcBoStUnique
+[06:18:30.789] [ShaderFilter] TrueShaderAntiCrash Mod found loading stopped
+[06:18:30.790] [ModuleManager] (Initialize) Module not initialised ErrorTokenizerConsumer
+[06:18:31.086] [PageWorldInfo] SetupWorldInfo 1
+[06:18:31.323] [UserInteractMenu] (SelectPlayer) found 1
+[06:18:31.396] [UserCameraControllerUtils] ViewFinder found
+[06:18:31.398] VRCVrCameraGoogle type name : MonoBehaviour1PublicVo17QuVoRaVeRaQu17VeUnique
+[06:18:31.482] VRC_StationInternal type name : VRC_StationInternal
+[06:18:31.926] [LoadingSound] Loaded from F:\SteamLibrary\steamapps\common\VRChat\music.ogg
+[06:18:31.934] [DiscordManager] Start
+[06:18:31.936] [DiscordManager.DeviceChanged] isInVR: False
+[06:18:31.938] [DiscordManager] RichPresence Initialised
+[06:18:31.939] [DiscordManager] RoomChanged
+[06:18:31.998] [LoadAs<T>] File.Exists ModuleSettings\Instances.json
+[06:18:32.024] [LoadAs<T>] JsonConvert.DeserializeObject<T> Success ModuleSettings\Instances.json
+[06:18:32.024] [SavedInstances] Loaded 16
+[06:18:32.026] [SavedInstances] Cropped to 10
+[06:18:32.632] [FullBodyCalibrationSaver] IsCalibratedForAvatar.Count 1
+[06:18:32.650] [FullBodyCalibrationSaver] PerformCalibration.Count 1
+[06:18:32.696] [LoadAs<T>] File.Exists ModuleSettings\FullBodyCalibrations.json
+[06:18:32.702] [LoadAs<T>] JsonConvert.DeserializeObject<T> Success ModuleSettings\FullBodyCalibrations.json
+[06:18:32.702] [SavedCalibrations] Loaded 2
+[06:18:32.752] [RecentAvatarsDB] Total Stored avatars: 125
+[06:18:32.850] RecentAvatarsDB Cropped to 61
+[06:18:33.309] FastJoin Found
+[06:18:33.345] [VRC_EventDispatcherRFC] variant 1
+[06:18:33.545] [ModerationManager] methods initialized 
+[06:18:33.554] [LoadAs<T>] File.Exists ModuleSettings\WayPoints.json
+[06:18:33.558] [LoadAs<T>] JsonConvert.DeserializeObject<T> Success ModuleSettings\WayPoints.json
+[06:18:33.558] [SavedWayPoints] Loaded 1
+[06:18:34.104] [Avatars] (Get) OK
+[06:18:34.107] SerealizedAvatars.Count 4
+[06:18:34.456] unityWebRequest OK
+[06:18:34.466] safetyPrefab loaded
+[06:18:34.469] blueprintId avtr_e2fe0c06-b37d-48cc-a5bb-ddb2777a2118
+[06:18:34.942] [OnStateChanged] ConnectingToNameServer
+[06:18:35.127] [OnStateChanged] ConnectedToNameServer
+[06:18:35.129] [OnStateChanged] Authenticating
+[06:18:35.314] [OnStateChanged] DisconnectingFromNameServer
+[06:18:35.337] [OnStateChanged] ConnectingToMasterserver
+[06:18:35.912] [OnStateChanged] Authenticating
+[06:18:36.102] [OnStateChanged] ConnectedToMasterserver
+[06:18:38.089] ----------------World Info----------------
+[06:18:38.090] name : The Abyss
+[06:18:38.091] id : wrld_ffe773ba-c31f-4f56-928b-0da8f256e435
+[06:18:38.091] unityVersion : 2018.4.20f1
+[06:18:38.092] assetUrl : https://api.vrchat.cloud/api/1/file/file_ae35ad3a-74bd-44b7-a007-1e2823674796/47/file
+[06:18:38.092] authorName : VVolfly
+[06:18:38.093] authorId : usr_8ec2e59d-0182-42fa-b1d9-5fa7f99da1bc
+[06:18:38.093] SelectWorld : The Abyss wrld_ffe773ba-c31f-4f56-928b-0da8f256e435
