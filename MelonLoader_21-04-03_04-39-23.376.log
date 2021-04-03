@@ -1805,3 +1805,873 @@ System.Reflection.TargetInvocationException: Exception has been thrown by the ta
 [05:11:17.134] [Avatars] (Posting) Created
 [05:11:21.237] PlayerLeft WonderNoob  userid:  usr_bf7fbbad-8068-4f8d-b522-1def7e48d21b
 [05:11:21.238] Photon player disconnected: WonderNoob
+[05:11:31.368] Photon player connected: LtCosmos
+[05:11:32.844] Photon player connected: EVILxINSIDE
+[05:11:33.372] [SwitchAvatarPatchPrefix] EVILxINSIDE CyburGrill avtr_de85c06b-d966-4c25-939f-b2524049dab3
+[05:11:33.373] Asset url: https://api.vrchat.cloud/api/1/file/file_99e398d4-3adf-414f-b97b-c2264cad2fd4/2/file
+[05:11:33.374] unityVersion: 2018.4.20f1
+[05:11:33.374] [emmVRCLoader] Player joined: EVILxINSIDE
+[05:11:33.415] PlayerJoin EVILxINSIDE  userid:  usr_de985734-d2d8-4979-a508-3fbba3dfe69c
+[05:11:35.154] [SwitchAvatarPatchPrefix] LtCosmos Eve W avtr_30e832b8-5247-40c7-9431-5178c54977f3
+[05:11:35.155] Asset url: https://api.vrchat.cloud/api/1/file/file_93228cee-6f99-4952-a47e-0abed22b56cc/1/file
+[05:11:35.156] unityVersion: 2018.4.20f1
+[05:11:35.157] [emmVRCLoader] Player joined: LtCosmos
+[05:11:35.162] PlayerJoin LtCosmos  userid:  usr_74de3616-bc19-4f46-8311-31e0fe7cfb02
+[05:11:36.945] AntiCrash EVILxINSIDE   avtr_de85c06b-d966-4c25-939f-b2524049dab3
+[05:11:39.175] [AntiCrashForPlayers] original call
+[05:11:41.506] AntiCrash LtCosmos   avtr_30e832b8-5247-40c7-9431-5178c54977f3
+[05:11:42.306] OnAvatarCreated EVILxINSIDE
+[05:11:46.051] [AntiCrashForPlayers] original call
+[05:11:46.568] [SwitchAvatarPatchPrefix] Kreme314 Kremepi avtr_adff5cd2-3882-4766-889f-1b3dd7906311
+[05:11:46.569] Asset url: https://api.vrchat.cloud/api/1/file/file_8412212e-e9c1-4d85-bd28-3f28a31ddead/1/file
+[05:11:46.570] unityVersion: 2018.4.20f1
+[05:11:46.927] Photon player connected: boinz
+[05:11:47.686] [SwitchAvatarPatchPrefix] boinz Salira avtr_368cdac0-b565-408c-8699-2e4a736641a8
+[05:11:47.687] Asset url: https://api.vrchat.cloud/api/1/file/file_39e68c87-2b32-4ed9-9819-4bf757dc3e19/2/file
+[05:11:47.687] unityVersion: 2018.4.20f1
+[05:11:47.698] [emmVRCLoader] Player joined: boinz
+[05:11:47.703] PlayerJoin boinz  userid:  usr_3ae93217-0cac-4e6e-b640-e78a2c678b58
+[05:11:47.716] [Avatars] (Posting) Created
+[05:11:48.835] OnAvatarCreated LtCosmos
+[05:11:51.403] [OnApplication] isFocused True
+[05:11:51.761] Photon player connected: CumlordMango
+[05:11:51.872] [OnApplication] isFocused False
+[05:11:51.897] [SwitchAvatarPatchPrefix] CumlordMango ＂Sexiest Frog Alive＂ avtr_25dd16da-9531-483b-b3ba-e275ead85b5a
+[05:11:51.898] Asset url: https://api.vrchat.cloud/api/1/file/file_ea5d1e6b-9db1-49e4-8fa9-dea1d835513a/5/file
+[05:11:51.900] unityVersion: 2018.4.20f1
+[05:11:51.901] [emmVRCLoader] Player joined: CumlordMango
+[05:11:51.908] PlayerJoin CumlordMango  userid:  usr_7139bf75-0b7e-4e24-948c-995621b06795
+[05:11:53.984] AntiCrash boinz   avtr_368cdac0-b565-408c-8699-2e4a736641a8
+[05:11:54.783] Photon player connected: ۵Nebula۵
+[05:11:54.915] AntiCrash CumlordMango   avtr_25dd16da-9531-483b-b3ba-e275ead85b5a
+[05:11:56.548] [AntiCrashForPlayers] original call
+[05:11:56.946] [AntiCrashForPlayers] original call
+[05:11:58.068] [SwitchAvatarPatchPrefix] ۵Nebula۵ Prince Nebula avtr_a3bcb5c0-958d-45de-b3da-914846a0f296
+[05:11:58.069] Asset url: https://api.vrchat.cloud/api/1/file/file_f616238a-69c9-44a2-8393-27a5c54862fd/1/file
+[05:11:58.070] unityVersion: 2018.4.20f1
+[05:11:58.071] [emmVRCLoader] Player joined: ۵Nebula۵
+[05:11:58.076] PlayerJoin ۵Nebula۵  userid:  usr_1465f4b4-c4ad-4b9b-a9a4-f42316a5e81e
+[05:11:59.341] OnAvatarCreated CumlordMango
+[05:11:59.745] OnAvatarCreated boinz
+[05:12:02.836] AntiCrash Kreme314   avtr_adff5cd2-3882-4766-889f-1b3dd7906311
+[05:12:07.936] AntiCrash ۵Nebula۵   avtr_a3bcb5c0-958d-45de-b3da-914846a0f296
+[05:12:09.369] [AntiCrashForPlayers] original call
+[05:12:12.136] OnAvatarCreated Kreme314
+[05:12:12.608] Photon player connected: AyanaFoxy
+[05:12:13.608] [SwitchAvatarPatchPrefix] AyanaFoxy Mia2 avtr_6a497abd-6531-48f3-9f2d-d629135cca71
+[05:12:13.609] Asset url: https://api.vrchat.cloud/api/1/file/file_8ee2e651-5362-40b2-8968-cf502370f7eb/1/file
+[05:12:13.610] unityVersion: 2018.4.20f1
+[05:12:13.621] [emmVRCLoader] Player joined: AyanaFoxy
+[05:12:13.626] PlayerJoin AyanaFoxy  userid:  usr_db594008-3e48-4c03-b0c1-2487109c13ab
+[05:12:15.723] [AntiCrashForPlayers] original call
+[05:12:18.554] OnAvatarCreated ۵Nebula۵
+[05:12:19.443] AntiCrash AyanaFoxy   avtr_6a497abd-6531-48f3-9f2d-d629135cca71
+[05:12:19.731] [Avatars] (Posting) Created
+[05:12:20.161] [ERROR] [SkinnedMeshRenderers]  Avatar exceeded limit sharedMesh poly 400083
+[05:12:20.245] OnAvatarCreated AyanaFoxy
+[05:12:30.490] Photon player connected: LiptonTBaggins
+[05:12:39.270] [SwitchAvatarPatchPrefix] LiptonTBaggins Optimized Depression avtr_5b8b4273-5363-435f-9171-1eb87c6647ce
+[05:12:39.271] Asset url: https://api.vrchat.cloud/api/1/file/file_acee5235-a8ca-4585-8834-7c8274e43da3/3/file
+[05:12:39.271] unityVersion: 2017.4.28f1
+[05:12:39.281] [emmVRCLoader] Player joined: LiptonTBaggins
+[05:12:39.286] PlayerJoin LiptonTBaggins  userid:  usr_bfe7e19a-2f8e-4d17-9378-be947b44a714
+[05:12:41.313] AntiCrash LiptonTBaggins   avtr_5b8b4273-5363-435f-9171-1eb87c6647ce
+[05:12:42.666] [AntiCrashForPlayers] original call
+[05:12:45.423] OnAvatarCreated LiptonTBaggins
+[05:12:49.742] [Avatars] (Posting) Created
+[05:13:02.258] Photon player connected: CupQueef
+[05:13:03.694] Photon player connected: Cynamin
+[05:13:04.024] [SwitchAvatarPatchPrefix] CupQueef Heart avtr_78fa6d46-7d14-4a74-bed9-6fee5d680877
+[05:13:04.025] Asset url: https://api.vrchat.cloud/api/1/file/file_ccfe3feb-c176-4a12-8362-ecabd40e0049/2/file
+[05:13:04.025] unityVersion: 2018.4.20f1
+[05:13:04.026] [emmVRCLoader] Player joined: CupQueef
+[05:13:04.031] PlayerJoin CupQueef  userid:  usr_da2ca7be-759b-4a17-9c8d-d46d42bf5d32
+[05:13:04.063] AntiCrash CupQueef   avtr_78fa6d46-7d14-4a74-bed9-6fee5d680877
+[05:13:04.134] [SwitchAvatarPatchPrefix] Cynamin Foxet avtr_951e263e-1783-4c65-9cc5-42d927ce7ec4
+[05:13:04.135] Asset url: https://api.vrchat.cloud/api/1/file/file_ba452eed-c2dc-4a07-b612-f459ab48dc4c/38/file
+[05:13:04.136] unityVersion: 2018.4.20f1
+[05:13:04.147] [emmVRCLoader] Player joined: Cynamin
+[05:13:04.152] PlayerJoin Cynamin  userid:  usr_c0019003-ed5a-431c-82b1-f07d171b7b62
+[05:13:04.944] PlayerLeft LiptonTBaggins  userid:  usr_bfe7e19a-2f8e-4d17-9378-be947b44a714
+[05:13:04.945] Photon player disconnected: LiptonTBaggins
+[05:13:05.816] [AntiCrashForPlayers] original call
+[05:13:08.569] OnAvatarCreated CupQueef
+[05:13:10.554] AntiCrash Cynamin   avtr_951e263e-1783-4c65-9cc5-42d927ce7ec4
+[05:13:11.626] Photon player connected: Fezurian
+[05:13:12.115] [SwitchAvatarPatchPrefix] Fezurian Fez The Witcharoo avtr_8a759c55-c616-41a9-9512-59408efc6234
+[05:13:12.116] Asset url: https://api.vrchat.cloud/api/1/file/file_7ed26f99-b31b-42ee-b931-25e0018a845d/23/file
+[05:13:12.116] unityVersion: 2018.4.20f1
+[05:13:12.117] [emmVRCLoader] Player joined: Fezurian
+[05:13:12.122] PlayerJoin Fezurian  userid:  usr_86781ffb-d97f-497b-b4a7-718928c5d40d
+[05:13:12.152] AntiCrash Fezurian   avtr_8a759c55-c616-41a9-9512-59408efc6234
+[05:13:14.504] [AntiCrashForPlayers] original call
+[05:13:14.664] [AntiCrashForPlayers] original call
+[05:13:17.283] OnAvatarCreated Cynamin
+[05:13:17.443] OnAvatarCreated Fezurian
+[05:13:20.241] [Avatars] (Posting) Created
+[05:13:40.229] PlayerLeft Daddy Chai  userid:  usr_1d7d4325-9d36-4d90-a163-e6b6c38a598f
+[05:13:40.230] Photon player disconnected: Daddy Chai
+[05:13:50.983] [Avatars] (Posting) Created
+[05:14:07.131] Photon player connected: Psaz
+[05:14:07.580] [SwitchAvatarPatchPrefix] Psaz psaz v2 avtr_655412b0-85c4-4783-8632-5688feb36948
+[05:14:07.581] Asset url: https://api.vrchat.cloud/api/1/file/file_cbfe9d06-3d15-461c-ba85-2c0fcf48f7b5/1/file
+[05:14:07.582] unityVersion: 2018.4.20f1
+[05:14:07.583] [emmVRCLoader] Player joined: Psaz
+[05:14:07.589] PlayerJoin Psaz  userid:  usr_1a2d2002-ca28-443b-bf0f-b73977e74a97
+[05:14:07.617] AntiCrash Psaz   avtr_655412b0-85c4-4783-8632-5688feb36948
+[05:14:09.366] [AntiCrashForPlayers] original call
+[05:14:12.407] OnAvatarCreated Psaz
+[05:14:19.028] PlayerLeft IceKitten  userid:  usr_f36cf1ef-11e2-4f67-80a1-bae4c0973f14
+[05:14:19.029] Photon player disconnected: IceKitten
+[05:14:20.141] Photon player connected: psych0pacifist
+[05:14:20.940] [SwitchAvatarPatchPrefix] psych0pacifist Alexa (Morph3D) avtr_b440bdb0-61ab-4906-a471-35fadaf7add5
+[05:14:20.941] Asset url: https://api.vrchat.cloud/api/1/file/file_627b9937-3ce5-4be6-9170-c85163f3ca58/1/file
+[05:14:20.941] unityVersion: 5.6.3p1
+[05:14:20.953] [emmVRCLoader] Player joined: psych0pacifist
+[05:14:20.959] PlayerJoin psych0pacifist  userid:  usr_cbdb1a57-a03e-4b23-a246-c2f23eff6f0b
+[05:14:21.192] [Avatars] (Posting) Created
+[05:14:24.205] AntiCrash psych0pacifist   avtr_b440bdb0-61ab-4906-a471-35fadaf7add5
+[05:14:25.916] [AntiCrashForPlayers] original call
+[05:14:26.991] Photon player connected: bonechilli
+[05:14:27.790] [SwitchAvatarPatchPrefix] bonechilli Glutton Maskling avtr_8a36c79e-69af-4b1a-b391-548080b33cc8
+[05:14:27.791] Asset url: https://api.vrchat.cloud/api/1/file/file_9f375744-08eb-4cec-9461-89cf9ab4efc7/16/file
+[05:14:27.792] unityVersion: 2017.4.15f1
+[05:14:27.803] [emmVRCLoader] Player joined: bonechilli
+[05:14:27.809] PlayerJoin bonechilli  userid:  usr_71984dff-202c-4422-a21d-aee51016d8e1
+[05:14:28.674] OnAvatarCreated psych0pacifist
+[05:14:29.114] AntiCrash bonechilli   avtr_8a36c79e-69af-4b1a-b391-548080b33cc8
+[05:14:31.008] [AntiCrashForPlayers] original call
+[05:14:32.031] PlayerLeft Moogle Mog  userid:  usr_0c53b458-0e42-4a59-a02c-ae8a8b11ca30
+[05:14:32.031] Photon player disconnected: Moogle Mog
+[05:14:33.868] OnAvatarCreated bonechilli
+[05:14:45.768] PlayerLeft Psaz  userid:  usr_1a2d2002-ca28-443b-bf0f-b73977e74a97
+[05:14:45.769] Photon player disconnected: Psaz
+[05:14:46.043] [SwitchAvatarPatchPrefix] RedThrobbinHoo ［Louis 3․0 Public］ avtr_1a8d3639-6432-4fa8-b8c0-e19bd735d96c
+[05:14:46.044] Asset url: https://api.vrchat.cloud/api/1/file/file_acb29f6e-0585-422b-b5a4-f10cc4311ec0/1/file
+[05:14:46.045] unityVersion: 2018.4.20f1
+[05:14:51.611] [Avatars] (Posting) Created
+[05:15:01.714] AntiCrash RedThrobbinHoo   avtr_1a8d3639-6432-4fa8-b8c0-e19bd735d96c
+[05:15:01.788] Photon player connected: DiamondDoll
+[05:15:02.269] [SwitchAvatarPatchPrefix] DiamondDoll Shattered avtr_79e77082-d147-4a7b-9911-63d8a6d2d966
+[05:15:02.270] Asset url: https://api.vrchat.cloud/api/1/file/file_c2fffe7f-5dd0-4cf7-89a5-6b6fdb2ced1a/1/file
+[05:15:02.270] unityVersion: 2018.4.20f1
+[05:15:02.281] [emmVRCLoader] Player joined: DiamondDoll
+[05:15:02.286] PlayerJoin DiamondDoll  userid:  usr_664e78da-5210-4537-85b6-2a8c44a55a8d
+[05:15:03.348] [ERROR] [SkinnedMeshRenderers]  Avatar exceeded limit sharedMesh poly 164117
+[05:15:03.435] OnAvatarCreated RedThrobbinHoo
+[05:15:07.365] AntiCrash DiamondDoll   avtr_79e77082-d147-4a7b-9911-63d8a6d2d966
+[05:15:09.756] [AntiCrashForPlayers] original call
+[05:15:12.513] OnAvatarCreated DiamondDoll
+[05:15:22.658] [Avatars] (Posting) Created
+[05:15:24.204] [SwitchAvatarPatchPrefix] eat acid Emily Optimized Buttgutt avtr_7c2e6813-f75b-4481-ab5d-d31923079b0f
+[05:15:24.205] Asset url: https://api.vrchat.cloud/api/1/file/file_38a5b79a-186b-4d25-86e7-0060fc16ce80/2/file
+[05:15:24.206] unityVersion: 2018.4.20f1
+[05:15:24.250] AntiCrash eat acid   avtr_7c2e6813-f75b-4481-ab5d-d31923079b0f
+[05:15:25.751] [AntiCrashForPlayers] original call
+[05:15:28.509] OnAvatarCreated eat acid
+[05:15:28.705] PlayerLeft Cynamin  userid:  usr_c0019003-ed5a-431c-82b1-f07d171b7b62
+[05:15:28.706] Photon player disconnected: Cynamin
+[05:15:29.778] Photon player connected: Long Faye
+[05:15:30.468] [SwitchAvatarPatchPrefix] Long Faye Domino avtr_1abbedbe-75e5-4ec5-9d1e-ad629bab89b4
+[05:15:30.469] Asset url: https://api.vrchat.cloud/api/1/file/file_d41f2512-1dcd-410f-ba45-3bf4edcc0f3a/6/file
+[05:15:30.470] unityVersion: 2018.4.20f1
+[05:15:30.471] [emmVRCLoader] Player joined: Long Faye
+[05:15:30.476] PlayerJoin Long Faye  userid:  usr_d39a189b-12b1-41b1-88db-23d87f6be805
+[05:15:33.733] AntiCrash Long Faye   avtr_1abbedbe-75e5-4ec5-9d1e-ad629bab89b4
+[05:15:36.561] [AntiCrashForPlayers] original call
+[05:15:39.329] OnAvatarCreated Long Faye
+[05:15:47.143] Photon player connected: Daddy Chai
+[05:15:47.703] [SwitchAvatarPatchPrefix] Daddy Chai For Chai because she needs the beef avtr_fcfb26f2-2f45-4480-8588-55e1734fb4a8
+[05:15:47.704] Asset url: https://api.vrchat.cloud/api/1/file/file_b5ee74ac-e3a0-4587-8ddc-7602df4c3f7e/1/file
+[05:15:47.704] unityVersion: 2018.4.20f1
+[05:15:47.717] [emmVRCLoader] Player joined: Daddy Chai
+[05:15:47.723] PlayerJoin Daddy Chai  userid:  usr_1d7d4325-9d36-4d90-a163-e6b6c38a598f
+[05:15:47.749] [ERROR] [AntiCrash] avatar blocked by cached result Daddy Chai
+[05:15:47.792] OnAvatarCreated Daddy Chai
+[05:15:51.457] PlayerLeft LtCosmos  userid:  usr_74de3616-bc19-4f46-8311-31e0fe7cfb02
+[05:15:51.458] Photon player disconnected: LtCosmos
+[05:15:53.060] [Avatars] (Posting) Created
+[05:16:08.462] [SwitchAvatarPatchPrefix] eat acid waaaaaawawawawowieeeeee avtr_cd426240-2eb4-4396-8a93-4c44de0bd3eb
+[05:16:08.462] Asset url: https://api.vrchat.cloud/api/1/file/file_60d396d5-9d98-46da-ac27-7f9b2977b50f/16/file
+[05:16:08.463] unityVersion: 2018.4.20f1
+[05:16:08.510] AntiCrash eat acid   avtr_cd426240-2eb4-4396-8a93-4c44de0bd3eb
+[05:16:10.779] [AntiCrashForPlayers] original call
+[05:16:13.534] OnAvatarCreated eat acid
+[05:16:23.119] [Avatars] (Posting) Created
+[05:16:31.335] Photon player connected: » Harkin «
+[05:16:33.380] [SwitchAvatarPatchPrefix] » Harkin « Trinity Samurai avtr_f47662b1-88c4-42af-8b78-69e9875b9a8e
+[05:16:33.381] Asset url: https://api.vrchat.cloud/api/1/file/file_f08e8b97-3f72-4c8f-b432-80ee0f384f0f/1/file
+[05:16:33.382] unityVersion: 2018.4.20f1
+[05:16:33.387] [emmVRCLoader] Player joined: » Harkin «
+[05:16:33.392] PlayerJoin » Harkin «  userid:  usr_235d8aa8-afcb-47ff-879b-02acbfda8649
+[05:16:33.417] AntiCrash » Harkin «   avtr_f47662b1-88c4-42af-8b78-69e9875b9a8e
+[05:16:36.128] [SwitchAvatarPatchPrefix] eat acid Emily Optimized Buttgutt avtr_7c2e6813-f75b-4481-ab5d-d31923079b0f
+[05:16:36.129] Asset url: https://api.vrchat.cloud/api/1/file/file_38a5b79a-186b-4d25-86e7-0060fc16ce80/2/file
+[05:16:36.130] unityVersion: 2018.4.20f1
+[05:16:36.171] AntiCrash eat acid   avtr_7c2e6813-f75b-4481-ab5d-d31923079b0f
+[05:16:37.642] [AntiCrashForPlayers] original call
+[05:16:39.126] [AntiCrashForPlayers] original call
+[05:16:40.479] OnAvatarCreated eat acid
+[05:16:42.119] OnAvatarCreated » Harkin «
+[05:16:43.641] Photon player connected: Syaoron
+[05:16:44.243] [SwitchAvatarPatchPrefix] Syaoron Syaoron avtr_bcf6a014-0427-497d-b9ef-bd72cb332c71
+[05:16:44.244] Asset url: https://api.vrchat.cloud/api/1/file/file_8ecda098-b0b5-4231-bc52-cac6fd8deb71/39/file
+[05:16:44.244] unityVersion: 2018.4.20f1
+[05:16:44.255] [emmVRCLoader] Player joined: Syaoron
+[05:16:44.263] PlayerJoin Syaoron  userid:  usr_c486ce38-43a4-4ee1-b6ab-7b811bbfa3a7
+[05:16:45.079] Photon player connected: LiptonTBaggins
+[05:16:45.159] Photon player connected: Alfonso Hegao
+[05:16:45.967] [SwitchAvatarPatchPrefix] LiptonTBaggins Optimized Depression avtr_5b8b4273-5363-435f-9171-1eb87c6647ce
+[05:16:45.968] Asset url: https://api.vrchat.cloud/api/1/file/file_acee5235-a8ca-4585-8834-7c8274e43da3/3/file
+[05:16:45.969] unityVersion: 2017.4.28f1
+[05:16:45.970] [emmVRCLoader] Player joined: LiptonTBaggins
+[05:16:45.976] PlayerJoin LiptonTBaggins  userid:  usr_bfe7e19a-2f8e-4d17-9378-be947b44a714
+[05:16:46.004] AntiCrash LiptonTBaggins   avtr_5b8b4273-5363-435f-9171-1eb87c6647ce
+[05:16:46.965] [SwitchAvatarPatchPrefix] Alfonso Hegao Alfonso Hegao v8 avtr_ae376223-12da-4286-9ee0-ace389c4d452
+[05:16:46.966] Asset url: https://api.vrchat.cloud/api/1/file/file_7de29171-87a8-47d6-9151-649f7a263551/11/file
+[05:16:46.967] unityVersion: 2018.4.20f1
+[05:16:46.968] [emmVRCLoader] Player joined: Alfonso Hegao
+[05:16:46.974] PlayerJoin Alfonso Hegao  userid:  usr_ed236028-fb6a-4650-bbd7-877b8526a2a0
+[05:16:47.358] [AntiCrashForPlayers] original call
+[05:16:48.712] AntiCrash Alfonso Hegao   avtr_ae376223-12da-4286-9ee0-ace389c4d452
+[05:16:50.159] OnAvatarCreated LiptonTBaggins
+[05:16:50.548] [AntiCrashForPlayers] original call
+[05:16:51.779] PlayerLeft Fezurian  userid:  usr_86781ffb-d97f-497b-b4a7-718928c5d40d
+[05:16:51.780] Photon player disconnected: Fezurian
+[05:16:52.473] AntiCrash Syaoron   avtr_bcf6a014-0427-497d-b9ef-bd72cb332c71
+[05:16:53.357] [Avatars] (Posting) Created
+[05:16:53.950] OnAvatarCreated Alfonso Hegao
+[05:16:55.382] [AntiCrashForPlayers] original call
+[05:16:57.175] Photon player connected: MittensFittens
+[05:16:58.141] OnAvatarCreated Syaoron
+[05:16:58.696] [SwitchAvatarPatchPrefix] MittensFittens Neon Plaz （3․0） avtr_a9253383-aa56-4ee9-8695-84515e89a2b5
+[05:16:58.697] Asset url: https://api.vrchat.cloud/api/1/file/file_83899010-93b7-4a62-b974-6b70b9f617e4/37/file
+[05:16:58.697] unityVersion: 2018.4.20f1
+[05:16:58.708] [emmVRCLoader] Player joined: MittensFittens
+[05:16:58.714] PlayerJoin MittensFittens  userid:  usr_9d80e295-550c-4438-bd79-135ca21f932b
+[05:17:04.410] PlayerLeft DiamondDoll  userid:  usr_664e78da-5210-4537-85b6-2a8c44a55a8d
+[05:17:04.411] Photon player disconnected: DiamondDoll
+[05:17:08.890] AntiCrash MittensFittens   avtr_a9253383-aa56-4ee9-8695-84515e89a2b5
+[05:17:21.600] [AntiCrashForPlayers] original call
+[05:17:24.633] OnAvatarCreated MittensFittens
+[05:17:25.043] [Avatars] (Posting) Created
+[05:17:27.943] PlayerLeft WarlordxKrog  userid:  usr_4e95f5b6-b67f-449d-a280-149d3c52ecbc
+[05:17:27.945] Photon player disconnected: WarlordxKrog
+[05:17:54.990] [Avatars] (Posting) Created
+[05:18:05.077] Photon player connected: Hatty Schoel
+[05:18:06.223] [SwitchAvatarPatchPrefix] Hatty Schoel Hatty Schoel （Akuma） avtr_c008c54c-8527-4f99-ae6d-30d728f4469d
+[05:18:06.223] Asset url: https://api.vrchat.cloud/api/1/file/file_36002e11-a2f6-402d-86c2-1444701c5371/4/file
+[05:18:06.224] unityVersion: 2018.4.20f1
+[05:18:06.225] [emmVRCLoader] Player joined: Hatty Schoel
+[05:18:06.231] PlayerJoin Hatty Schoel  userid:  usr_72ec1e66-9c75-4450-a2d1-1253b66c11cc
+[05:18:10.615] AntiCrash Hatty Schoel   avtr_c008c54c-8527-4f99-ae6d-30d728f4469d
+[05:18:13.363] [AntiCrashForPlayers] original call
+[05:18:15.116] Photon player connected: Zeldabro
+[05:18:15.844] [SwitchAvatarPatchPrefix] Zeldabro cute little girl~ avtr_5504a589-abb1-4044-a581-97e1eae9e1f4
+[05:18:15.845] Asset url: https://api.vrchat.cloud/api/1/file/file_3bd86f77-2909-4631-b682-fe510b6d9e20/1/file
+[05:18:15.846] unityVersion: 2017.4.15f1
+[05:18:15.847] [emmVRCLoader] Player joined: Zeldabro
+[05:18:15.852] PlayerJoin Zeldabro  userid:  usr_169258ac-0f92-4cc7-a6fe-67d100e573bc
+[05:18:16.123] OnAvatarCreated Hatty Schoel
+[05:18:16.887] AntiCrash Zeldabro   avtr_5504a589-abb1-4044-a581-97e1eae9e1f4
+[05:18:18.323] [AntiCrashForPlayers] original call
+[05:18:18.763] PlayerLeft Long Faye  userid:  usr_d39a189b-12b1-41b1-88db-23d87f6be805
+[05:18:18.763] Photon player disconnected: Long Faye
+[05:18:21.078] OnAvatarCreated Zeldabro
+[05:18:25.119] [Avatars] (Posting) Created
+[05:18:33.582] Photon player connected: kerrang
+[05:18:34.112] [SwitchAvatarPatchPrefix] kerrang Carson avtr_54734760-fc98-4875-9c24-e669855a9219
+[05:18:34.113] Asset url: https://api.vrchat.cloud/api/1/file/file_a4dbd923-b82c-4236-bb39-bd2bc5d79bca/4/file
+[05:18:34.113] unityVersion: 2017.4.28f1
+[05:18:34.115] [emmVRCLoader] Player joined: kerrang
+[05:18:34.120] PlayerJoin kerrang  userid:  usr_86fbce11-0b32-41ce-962b-16c364401b0d
+[05:18:34.420] [SwitchAvatarPatchPrefix] Hatty Schoel Hatty Chain avtr_057c22e3-cea8-4474-8bb0-dd0f28b4adc0
+[05:18:34.421] Asset url: https://api.vrchat.cloud/api/1/file/file_154ba3a0-b982-4cd3-979b-e45d962956a9/1/file
+[05:18:34.421] unityVersion: 2018.4.20f1
+[05:18:34.825] AntiCrash kerrang   avtr_54734760-fc98-4875-9c24-e669855a9219
+[05:18:36.800] [AntiCrashForPlayers] original call
+[05:18:39.253] AntiCrash Hatty Schoel   avtr_057c22e3-cea8-4474-8bb0-dd0f28b4adc0
+[05:18:39.810] OnAvatarCreated kerrang
+[05:18:43.438] [AntiCrashForPlayers] original call
+[05:18:46.203] OnAvatarCreated Hatty Schoel
+[05:18:55.147] [Avatars] (Posting) Created
+[05:19:13.376] Photon player connected: WarlordxKrog
+[05:19:13.786] [SwitchAvatarPatchPrefix] WarlordxKrog Tatted Kori avtr_dc2c0d0c-b7ef-495e-a6b6-e05a26bde557
+[05:19:13.787] Asset url: https://api.vrchat.cloud/api/1/file/file_dafb41d5-e96a-40ae-be4b-3397297347d6/1/file
+[05:19:13.788] unityVersion: 2017.4.28f1
+[05:19:13.789] [emmVRCLoader] Player joined: WarlordxKrog
+[05:19:13.795] PlayerJoin WarlordxKrog  userid:  usr_4e95f5b6-b67f-449d-a280-149d3c52ecbc
+[05:19:13.823] AntiCrash WarlordxKrog   avtr_dc2c0d0c-b7ef-495e-a6b6-e05a26bde557
+[05:19:15.506] [AntiCrashForPlayers] original call
+[05:19:17.858] Photon player connected: Worksock
+[05:19:18.266] OnAvatarCreated WarlordxKrog
+[05:19:18.509] [SwitchAvatarPatchPrefix] Worksock Gray Wolf Marker Edit avtr_4a2e2621-ddff-4a58-9992-537bae8bc08b
+[05:19:18.510] Asset url: https://api.vrchat.cloud/api/1/file/file_8a46dfeb-e2ce-4110-8e89-518b5490df74/1/file
+[05:19:18.510] unityVersion: 2018.4.20f1
+[05:19:18.512] [emmVRCLoader] Player joined: Worksock
+[05:19:18.518] PlayerJoin Worksock  userid:  usr_cbcf88a4-65b9-45bc-aceb-68e72d1ae3ff
+[05:19:20.032] AntiCrash Worksock   avtr_4a2e2621-ddff-4a58-9992-537bae8bc08b
+[05:19:20.147] Photon player connected: Warman2126
+[05:19:21.236] [SwitchAvatarPatchPrefix] Warman2126 red hiphopboi by ghosti avtr_03fa34df-9acc-4dc9-a363-2c9bf4b79951
+[05:19:21.237] Asset url: https://api.vrchat.cloud/api/1/file/file_c6df454b-8246-42f6-b46b-be2d4eb357bd/1/file
+[05:19:21.238] unityVersion: 2018.4.20f1
+[05:19:21.239] [emmVRCLoader] Player joined: Warman2126
+[05:19:21.245] PlayerJoin Warman2126  userid:  usr_1c32d890-1485-41dd-b676-d084e635c9fe
+[05:19:21.905] [AntiCrashForPlayers] original call
+[05:19:24.664] OnAvatarCreated Worksock
+[05:19:25.193] [Avatars] (Posting) Created
+[05:19:30.411] PlayerLeft Daddy Chai  userid:  usr_1d7d4325-9d36-4d90-a163-e6b6c38a598f
+[05:19:30.413] Photon player disconnected: Daddy Chai
+[05:19:30.422] AntiCrash Warman2126   avtr_03fa34df-9acc-4dc9-a363-2c9bf4b79951
+[05:19:35.164] [AntiCrashForPlayers] original call
+[05:19:36.841] [SwitchAvatarPatchPrefix] Kreme314 ［Louis 3․0 Public］ avtr_1a8d3639-6432-4fa8-b8c0-e19bd735d96c
+[05:19:36.842] Asset url: https://api.vrchat.cloud/api/1/file/file_acb29f6e-0585-422b-b5a4-f10cc4311ec0/1/file
+[05:19:36.843] unityVersion: 2018.4.20f1
+[05:19:36.886] [ERROR] [AntiCrash] avatar blocked by cached result Kreme314
+[05:19:36.928] OnAvatarCreated Kreme314
+[05:19:37.940] OnAvatarCreated Warman2126
+[05:19:40.860] Photon player connected: LtCosmos
+[05:19:42.586] [SwitchAvatarPatchPrefix] LtCosmos Eve W avtr_30e832b8-5247-40c7-9431-5178c54977f3
+[05:19:42.587] Asset url: https://api.vrchat.cloud/api/1/file/file_93228cee-6f99-4952-a47e-0abed22b56cc/1/file
+[05:19:42.588] unityVersion: 2018.4.20f1
+[05:19:42.589] [emmVRCLoader] Player joined: LtCosmos
+[05:19:42.595] PlayerJoin LtCosmos  userid:  usr_74de3616-bc19-4f46-8311-31e0fe7cfb02
+[05:19:42.624] AntiCrash LtCosmos   avtr_30e832b8-5247-40c7-9431-5178c54977f3
+[05:19:44.221] PlayerLeft bonechilli  userid:  usr_71984dff-202c-4422-a21d-aee51016d8e1
+[05:19:44.222] Photon player disconnected: bonechilli
+[05:19:47.207] [AntiCrashForPlayers] original call
+[05:19:50.212] OnAvatarCreated LtCosmos
+[05:19:52.320] Photon player connected: The Fluff
+[05:19:53.140] [SwitchAvatarPatchPrefix] The Fluff Cookie Monster avtr_b42c2c48-80cb-44de-87c4-ff4dbd8cd88b
+[05:19:53.141] Asset url: https://api.vrchat.cloud/api/1/file/file_c119a16c-b8de-404f-a237-dcbd3548b68f/2/file
+[05:19:53.141] unityVersion: 2017.4.15f1
+[05:19:53.142] [emmVRCLoader] Player joined: The Fluff
+[05:19:53.149] PlayerJoin The Fluff  userid:  usr_b5577f4f-287e-4213-9d28-b0f5aa497dbd
+[05:19:53.177] AntiCrash The Fluff   avtr_b42c2c48-80cb-44de-87c4-ff4dbd8cd88b
+[05:19:54.529] [AntiCrashForPlayers] original call
+[05:19:54.693] PlayerLeft Syaoron  userid:  usr_c486ce38-43a4-4ee1-b6ab-7b811bbfa3a7
+[05:19:54.694] Photon player disconnected: Syaoron
+[05:19:55.689] [SwitchAvatarPatchPrefix] Kreme314 Kremepi avtr_adff5cd2-3882-4766-889f-1b3dd7906311
+[05:19:55.690] Asset url: https://api.vrchat.cloud/api/1/file/file_8412212e-e9c1-4d85-bd28-3f28a31ddead/1/file
+[05:19:55.690] unityVersion: 2018.4.20f1
+[05:19:55.732] AntiCrash Kreme314   avtr_adff5cd2-3882-4766-889f-1b3dd7906311
+[05:19:56.128] ConfigurePortal  ۵Nebula۵   wrld_955ded62-6d09-4b84-999c-05fa97f9238b:48779
+[05:19:57.286] OnAvatarCreated The Fluff
+[05:19:57.334] [Avatars] (Posting) Created
+[05:19:59.797] PlayerLeft cheers now  userid:  usr_33b967d2-0553-4ea0-bb9e-2747d5658ffa
+[05:19:59.798] Photon player disconnected: cheers now
+[05:20:01.235] [AntiCrashForPlayers] original call
+[05:20:02.754] PlayerLeft AyanaFoxy  userid:  usr_db594008-3e48-4c03-b0c1-2487109c13ab
+[05:20:02.755] Photon player disconnected: AyanaFoxy
+[05:20:03.113] PlayerLeft iAsh  userid:  usr_b73a2474-2352-47d2-afb5-342b708950ac
+[05:20:03.114] Photon player disconnected: iAsh
+[05:20:03.592] PlayerLeft ۵Nebula۵  userid:  usr_1465f4b4-c4ad-4b9b-a9a4-f42316a5e81e
+[05:20:03.593] Photon player disconnected: ۵Nebula۵
+[05:20:04.019] OnAvatarCreated Kreme314
+[05:20:18.777] [SwitchAvatarPatchPrefix] Warman2126 RVB˸ Caboose ［Halo 5］ avtr_10953b78-1719-462f-b3eb-34761d652a02
+[05:20:18.778] Asset url: https://api.vrchat.cloud/api/1/file/file_931bc11b-3031-43f8-9d04-c6d620517531/14/file
+[05:20:18.778] unityVersion: 2018.4.20f1
+[05:20:23.447] AntiCrash Warman2126   avtr_10953b78-1719-462f-b3eb-34761d652a02
+[05:20:24.919] [AntiCrashForPlayers] original call
+[05:20:25.719] PlayerLeft Cjack64  userid:  usr_6a3ea791-8615-4dd5-b925-6f70d6542b64
+[05:20:25.720] Photon player disconnected: Cjack64
+[05:20:27.676] OnAvatarCreated Warman2126
+[05:20:37.849] [SwitchAvatarPatchPrefix] Broloffski Skye Optimized （Good Performance） - Cinnamon avtr_7ae370d9-842f-429f-ba95-baabbb830f90
+[05:20:37.851] Asset url: https://api.vrchat.cloud/api/1/file/file_da952ac3-dcb0-47b5-80bc-f4091756968a/6/file
+[05:20:37.851] unityVersion: 2018.4.20f1
+[05:20:37.900] AntiCrash Broloffski   avtr_7ae370d9-842f-429f-ba95-baabbb830f90
+[05:20:39.411] [AntiCrashForPlayers] original call
+[05:20:41.164] Photon player connected: Cjack64
+[05:20:41.683] [SwitchAvatarPatchPrefix] Cjack64 tommy avtr_ed4aa80d-3c58-4445-a76c-c18c3bc11cb8
+[05:20:41.684] Asset url: https://api.vrchat.cloud/api/1/file/file_440b2f74-6c36-4cf1-aede-620fa918dcf8/1/file
+[05:20:41.685] unityVersion: 2018.4.20f1
+[05:20:41.696] [emmVRCLoader] Player joined: Cjack64
+[05:20:41.702] PlayerJoin Cjack64  userid:  usr_6a3ea791-8615-4dd5-b925-6f70d6542b64
+[05:20:41.729] AntiCrash Cjack64   avtr_ed4aa80d-3c58-4445-a76c-c18c3bc11cb8
+[05:20:42.169] OnAvatarCreated Broloffski
+[05:20:44.442] Photon player connected: Daddy Chai
+[05:20:44.719] [AntiCrashForPlayers] original call
+[05:20:44.890] [SwitchAvatarPatchPrefix] Daddy Chai For Chai because she needs the beef avtr_fcfb26f2-2f45-4480-8588-55e1734fb4a8
+[05:20:44.891] Asset url: https://api.vrchat.cloud/api/1/file/file_b5ee74ac-e3a0-4587-8ddc-7602df4c3f7e/1/file
+[05:20:44.892] unityVersion: 2018.4.20f1
+[05:20:44.928] [emmVRCLoader] Player joined: Daddy Chai
+[05:20:44.934] PlayerJoin Daddy Chai  userid:  usr_1d7d4325-9d36-4d90-a163-e6b6c38a598f
+[05:20:44.957] [ERROR] [AntiCrash] avatar blocked by cached result Daddy Chai
+[05:20:45.000] OnAvatarCreated Daddy Chai
+[05:20:47.552] OnAvatarCreated Cjack64
+[05:20:57.497] [Avatars] (Posting) Created
+[05:21:01.200] [SwitchAvatarPatchPrefix] EVILxINSIDE Jayde-Cinnamon avtr_446449ca-2572-4689-8f31-cd8bfc79150a
+[05:21:01.201] Asset url: https://api.vrchat.cloud/api/1/file/file_f9978841-b38c-410c-b517-1c3557509ad0/1/file
+[05:21:01.201] unityVersion: 2018.4.20f1
+[05:21:03.756] AntiCrash EVILxINSIDE   avtr_446449ca-2572-4689-8f31-cd8bfc79150a
+[05:21:05.274] [AntiCrashForPlayers] original call
+[05:21:07.432] PlayerLeft Spooky2001  userid:  usr_fa90d438-2cd5-4f2c-8fcc-a4a04fd3a456
+[05:21:07.433] Photon player disconnected: Spooky2001
+[05:21:08.033] OnAvatarCreated EVILxINSIDE
+[05:21:09.743] [SwitchAvatarPatchPrefix] Broloffski Sugar avtr_aee59e15-ff1d-4f2a-a6d3-f9c09f63a685
+[05:21:09.744] Asset url: https://api.vrchat.cloud/api/1/file/file_23b1f263-80b8-443e-83de-c61d5f2f2f03/4/file
+[05:21:09.745] unityVersion: 2018.4.20f1
+[05:21:11.265] AntiCrash Broloffski   avtr_aee59e15-ff1d-4f2a-a6d3-f9c09f63a685
+[05:21:14.293] [AntiCrashForPlayers] original call
+[05:21:17.053] OnAvatarCreated Broloffski
+[05:21:18.684] PlayerLeft Zeldabro  userid:  usr_169258ac-0f92-4cc7-a6fe-67d100e573bc
+[05:21:18.685] Photon player disconnected: Zeldabro
+[05:21:27.592] [Avatars] (Posting) Created
+[05:21:28.579] PlayerLeft Worksock  userid:  usr_cbcf88a4-65b9-45bc-aceb-68e72d1ae3ff
+[05:21:28.580] Photon player disconnected: Worksock
+[05:21:44.102] Photon player connected: Spooky2001
+[05:21:46.819] [SwitchAvatarPatchPrefix] Spooky2001 Dawnv4 avtr_a58fd371-97f8-4c1f-8c9d-ffb486f06ec4
+[05:21:46.820] Asset url: https://api.vrchat.cloud/api/1/file/file_11c4a9c7-6fc9-4134-bd37-3dd7740cf591/4/file
+[05:21:46.820] unityVersion: 2018.4.20f1
+[05:21:46.836] [emmVRCLoader] Player joined: Spooky2001
+[05:21:46.841] PlayerJoin Spooky2001  userid:  usr_fa90d438-2cd5-4f2c-8fcc-a4a04fd3a456
+[05:21:46.867] AntiCrash Spooky2001   avtr_a58fd371-97f8-4c1f-8c9d-ffb486f06ec4
+[05:21:48.471] PlayerLeft kerrang  userid:  usr_86fbce11-0b32-41ce-962b-16c364401b0d
+[05:21:48.472] Photon player disconnected: kerrang
+[05:21:50.703] [AntiCrashForPlayers] original call
+[05:21:53.468] OnAvatarCreated Spooky2001
+[05:22:00.602] Photon player connected: leviathan773
+[05:22:01.123] [SwitchAvatarPatchPrefix] leviathan773 PrinceLeviathan avtr_4538ca47-6a8e-4ee9-914c-520cfccca16a
+[05:22:01.125] Asset url: https://api.vrchat.cloud/api/1/file/file_e7a00bfd-25dd-410f-b4a2-68102f53876b/19/file
+[05:22:01.125] unityVersion: 2018.4.20f1
+[05:22:01.136] [emmVRCLoader] Player joined: leviathan773
+[05:22:01.142] PlayerJoin leviathan773  userid:  usr_605ad345-8865-40a1-810a-3362b725ff11
+[05:22:11.802] AntiCrash leviathan773   avtr_4538ca47-6a8e-4ee9-914c-520cfccca16a
+[05:22:13.154] [SwitchAvatarPatchPrefix] RedThrobbinHoo Bunni Red avtr_6371ab4b-04be-4c71-90c3-4418bc3363ea
+[05:22:13.154] Asset url: https://api.vrchat.cloud/api/1/file/file_5fe6c685-470d-4d5e-8ecb-c6674a2845d7/1/file
+[05:22:13.155] unityVersion: 2018.4.20f1
+[05:22:18.591] AntiCrash RedThrobbinHoo   avtr_6371ab4b-04be-4c71-90c3-4418bc3363ea
+[05:22:20.140] Photon player connected: Scarrecrow
+[05:22:20.659] [SwitchAvatarPatchPrefix] Scarrecrow Bob avtr_1cda5aa0-c27c-4a97-8dd6-31fdf0d50e7e
+[05:22:20.660] Asset url: https://api.vrchat.cloud/api/1/file/file_4685bf04-9275-4877-863d-517edd54a719/2/file
+[05:22:20.661] unityVersion: 2018.4.20f1
+[05:22:20.673] [emmVRCLoader] Player joined: Scarrecrow
+[05:22:20.678] PlayerJoin Scarrecrow  userid:  usr_3552106b-d14d-47d1-afaa-d535d63be020
+[05:22:21.180] [AntiCrashForPlayers] original call
+[05:22:24.670] OnAvatarCreated leviathan773
+[05:22:24.894] AntiCrash Scarrecrow   avtr_1cda5aa0-c27c-4a97-8dd6-31fdf0d50e7e
+[05:22:27.561] [AntiCrashForPlayers] original call
+[05:22:29.237] [AntiCrashForPlayers] original call
+[05:22:29.633] Photon player connected: ~LilRitz88~
+[05:22:30.359] [SwitchAvatarPatchPrefix] ~LilRitz88~ Hiru avtr_a163ea0d-ac70-4a8f-901b-7f2450ce7e7e
+[05:22:30.362] Asset url: https://api.vrchat.cloud/api/1/file/file_64afc18a-a33a-4fc8-83b8-2d7a3c9fabfb/1/file
+[05:22:30.363] unityVersion: 2018.4.20f1
+[05:22:30.383] [emmVRCLoader] Player joined: ~LilRitz88~
+[05:22:30.395] PlayerJoin ~LilRitz88~  userid:  usr_ac920036-e30f-4507-97fb-26fd847d972c
+[05:22:30.397] OnAvatarCreated RedThrobbinHoo
+[05:22:32.094] OnAvatarCreated Scarrecrow
+[05:22:34.632] AntiCrash ~LilRitz88~   avtr_a163ea0d-ac70-4a8f-901b-7f2450ce7e7e
+[05:22:38.500] [AntiCrashForPlayers] original call
+[05:22:41.270] OnAvatarCreated ~LilRitz88~
+[05:22:42.580] [SwitchAvatarPatchPrefix] Scarrecrow Fat Pink Panther avtr_77258780-032a-4323-8469-5a2e1a247322
+[05:22:42.581] Asset url: https://api.vrchat.cloud/api/1/file/file_fef6b3ee-93a7-4f10-9bf3-8715b1f59e08/2/file
+[05:22:42.581] unityVersion: 2018.4.20f1
+[05:22:44.394] AntiCrash Scarrecrow   avtr_77258780-032a-4323-8469-5a2e1a247322
+[05:22:46.029] [AntiCrashForPlayers] original call
+[05:22:48.833] OnAvatarCreated Scarrecrow
+[05:22:59.665] [Avatars] (Posting) Created
+[05:23:24.679] Photon player connected: kerrang
+[05:23:25.239] [SwitchAvatarPatchPrefix] kerrang Carson avtr_54734760-fc98-4875-9c24-e669855a9219
+[05:23:25.239] Asset url: https://api.vrchat.cloud/api/1/file/file_a4dbd923-b82c-4236-bb39-bd2bc5d79bca/4/file
+[05:23:25.240] unityVersion: 2017.4.28f1
+[05:23:25.241] [emmVRCLoader] Player joined: kerrang
+[05:23:25.247] PlayerJoin kerrang  userid:  usr_86fbce11-0b32-41ce-962b-16c364401b0d
+[05:23:25.276] AntiCrash kerrang   avtr_54734760-fc98-4875-9c24-e669855a9219
+[05:23:27.195] [AntiCrashForPlayers] original call
+[05:23:29.690] [Avatars] (Posting) Created
+[05:23:29.960] OnAvatarCreated kerrang
+[05:23:41.410] [SwitchAvatarPatchPrefix] HunterMG waaaaaawawawawowieeeeee avtr_cd426240-2eb4-4396-8a93-4c44de0bd3eb
+[05:23:41.411] Asset url: https://api.vrchat.cloud/api/1/file/file_60d396d5-9d98-46da-ac27-7f9b2977b50f/16/file
+[05:23:41.411] unityVersion: 2018.4.20f1
+[05:23:41.460] AntiCrash HunterMG   avtr_cd426240-2eb4-4396-8a93-4c44de0bd3eb
+[05:23:43.770] [AntiCrashForPlayers] original call
+[05:23:46.042] Photon player connected: Nations_
+[05:23:46.548] OnAvatarCreated HunterMG
+[05:23:46.711] [SwitchAvatarPatchPrefix] Nations_ Nations - Remastered v1․0 avtr_4e82715c-abef-4886-a106-8c301864027c
+[05:23:46.712] Asset url: https://api.vrchat.cloud/api/1/file/file_ea37f10c-48c2-42ae-aabf-e1167c037819/1/file
+[05:23:46.714] unityVersion: 2018.4.20f1
+[05:23:46.716] [emmVRCLoader] Player joined: Nations_
+[05:23:46.722] PlayerJoin Nations_  userid:  usr_09b03129-19d2-449b-937b-3e57fb2acdea
+[05:23:57.263] AntiCrash Nations_   avtr_4e82715c-abef-4886-a106-8c301864027c
+[05:24:09.514] PlayerLeft Rizzyy  userid:  usr_3c2c0805-afd2-4c7f-b3c0-f83a9e822fd3
+[05:24:09.515] Photon player disconnected: Rizzyy
+[05:24:13.340] Photon player connected: chino_js
+[05:24:13.820] [SwitchAvatarPatchPrefix] chino_js Takeo avtr_c88b8bc2-a95f-490c-ae3b-f2c65209d45a
+[05:24:13.821] Asset url: https://api.vrchat.cloud/api/1/file/file_c4653f68-7b9e-4034-b832-453eaa7558a4/2/file
+[05:24:13.821] unityVersion: 2018.4.20f1
+[05:24:13.834] [emmVRCLoader] Player joined: chino_js
+[05:24:13.840] PlayerJoin chino_js  userid:  usr_96aed932-0eea-42d9-8dbe-3c3f7812062c
+[05:24:15.458] [AntiCrashForPlayers] original call
+[05:24:18.228] OnAvatarCreated Nations_
+[05:24:19.950] [SwitchAvatarPatchPrefix] HunterMG Destin avtr_e8989814-091e-4b4c-b7ff-5002ce4e5daf
+[05:24:19.951] Asset url: https://api.vrchat.cloud/api/1/file/file_87332d3e-54e5-4879-80f1-d857b0653f0f/2/file
+[05:24:19.951] unityVersion: 2018.4.20f1
+[05:24:20.000] AntiCrash HunterMG   avtr_e8989814-091e-4b4c-b7ff-5002ce4e5daf
+[05:24:21.982] AntiCrash chino_js   avtr_c88b8bc2-a95f-490c-ae3b-f2c65209d45a
+[05:24:23.296] [AntiCrashForPlayers] original call
+[05:24:26.054] OnAvatarCreated HunterMG
+[05:24:26.129] [AntiCrashForPlayers] original call
+[05:24:28.886] OnAvatarCreated chino_js
+[05:24:30.236] [SwitchAvatarPatchPrefix] Broloffski Emily Optimized Buttgutt avtr_7c2e6813-f75b-4481-ab5d-d31923079b0f
+[05:24:30.237] Asset url: https://api.vrchat.cloud/api/1/file/file_38a5b79a-186b-4d25-86e7-0060fc16ce80/2/file
+[05:24:30.238] unityVersion: 2018.4.20f1
+[05:24:30.284] AntiCrash Broloffski   avtr_7c2e6813-f75b-4481-ab5d-d31923079b0f
+[05:24:31.240] PlayerLeft Hatty Schoel  userid:  usr_72ec1e66-9c75-4450-a2d1-1253b66c11cc
+[05:24:31.241] Photon player disconnected: Hatty Schoel
+[05:24:31.756] [AntiCrashForPlayers] original call
+[05:24:34.514] OnAvatarCreated Broloffski
+[05:24:50.351] Photon player connected: Hatty Schoel
+[05:24:51.074] PlayerLeft Spooky2001  userid:  usr_fa90d438-2cd5-4f2c-8fcc-a4a04fd3a456
+[05:24:51.075] Photon player disconnected: Spooky2001
+[05:24:52.476] [SwitchAvatarPatchPrefix] Hatty Schoel Hatty Chain avtr_057c22e3-cea8-4474-8bb0-dd0f28b4adc0
+[05:24:52.476] Asset url: https://api.vrchat.cloud/api/1/file/file_154ba3a0-b982-4cd3-979b-e45d962956a9/1/file
+[05:24:52.477] unityVersion: 2018.4.20f1
+[05:24:52.478] [emmVRCLoader] Player joined: Hatty Schoel
+[05:24:52.484] PlayerJoin Hatty Schoel  userid:  usr_72ec1e66-9c75-4450-a2d1-1253b66c11cc
+[05:24:52.513] AntiCrash Hatty Schoel   avtr_057c22e3-cea8-4474-8bb0-dd0f28b4adc0
+[05:24:55.662] PlayerLeft Nations_  userid:  usr_09b03129-19d2-449b-937b-3e57fb2acdea
+[05:24:55.663] Photon player disconnected: Nations_
+[05:24:56.698] [AntiCrashForPlayers] original call
+[05:24:59.461] OnAvatarCreated Hatty Schoel
+[05:25:27.611] Photon player connected: Hypno Dog
+[05:25:28.331] [SwitchAvatarPatchPrefix] Hypno Dog Spotty Rex avtr_c970c4eb-f2fc-4c56-937d-1f30274c8275
+[05:25:28.332] Asset url: https://api.vrchat.cloud/api/1/file/file_42ec323f-bb6a-45ea-b6ce-40637ed66a38/2/file
+[05:25:28.332] unityVersion: 2018.4.20f1
+[05:25:28.346] [emmVRCLoader] Player joined: Hypno Dog
+[05:25:28.352] PlayerJoin Hypno Dog  userid:  usr_65cbd743-b30c-4be5-a90e-4befded100cc
+[05:25:34.529] AntiCrash Hypno Dog   avtr_c970c4eb-f2fc-4c56-937d-1f30274c8275
+[05:25:37.082] [AntiCrashForPlayers] original call
+[05:25:39.867] OnAvatarCreated Hypno Dog
+[05:25:58.398] PlayerLeft that one neko  userid:  usr_d4262f2c-6596-4ad2-a6f0-250b67838b12
+[05:25:58.399] Photon player disconnected: that one neko
+[05:26:01.280] [Avatars] (Posting) Created
+[05:26:19.080] PlayerLeft Scarrecrow  userid:  usr_3552106b-d14d-47d1-afaa-d535d63be020
+[05:26:19.081] Photon player disconnected: Scarrecrow
+[05:26:23.346] Photon player connected: ImDoos
+[05:26:24.194] [SwitchAvatarPatchPrefix] ImDoos Doos （sukuna） avtr_9143951e-9de0-4a39-a60c-6444341b341a
+[05:26:24.195] Asset url: https://api.vrchat.cloud/api/1/file/file_565a7b0b-c658-4c6c-9944-f50d0facd281/3/file
+[05:26:24.195] unityVersion: 2018.4.20f1
+[05:26:24.197] [emmVRCLoader] Player joined: ImDoos
+[05:26:24.202] PlayerJoin ImDoos  userid:  usr_94b4dc1d-c29d-42a5-a36a-a07fe932aa84
+[05:26:24.788] PlayerLeft Wirywings5  userid:  usr_7da115c5-2036-422e-b8ba-9260cd7d95b3
+[05:26:24.789] Photon player disconnected: Wirywings5
+[05:26:26.773] AntiCrash ImDoos   avtr_9143951e-9de0-4a39-a60c-6444341b341a
+[05:26:29.338] PlayerLeft chino_js  userid:  usr_96aed932-0eea-42d9-8dbe-3c3f7812062c
+[05:26:29.339] Photon player disconnected: chino_js
+[05:26:29.575] [AntiCrashForPlayers] original call
+[05:26:32.332] OnAvatarCreated ImDoos
+[05:26:34.365] PlayerLeft leviathan773  userid:  usr_605ad345-8865-40a1-810a-3362b725ff11
+[05:26:34.365] Photon player disconnected: leviathan773
+[05:26:45.085] PlayerLeft Hatty Schoel  userid:  usr_72ec1e66-9c75-4450-a2d1-1253b66c11cc
+[05:26:45.086] Photon player disconnected: Hatty Schoel
+[05:26:50.227] Photon player connected: iAsh
+[05:26:50.827] [SwitchAvatarPatchPrefix] iAsh Shianne  avtr_ce37a4a9-7081-4f46-940e-e3f6431ff3c0
+[05:26:50.828] Asset url: https://api.vrchat.cloud/api/1/file/file_e069e60b-3945-4fe0-97af-94685ad4b6ae/1/file
+[05:26:50.828] unityVersion: 2018.4.20f1
+[05:26:50.840] [emmVRCLoader] Player joined: iAsh
+[05:26:50.846] PlayerJoin iAsh  userid:  usr_b73a2474-2352-47d2-afb5-342b708950ac
+[05:26:50.872] AntiCrash iAsh   avtr_ce37a4a9-7081-4f46-940e-e3f6431ff3c0
+[05:26:54.624] [AntiCrashForPlayers] original call
+[05:26:57.390] OnAvatarCreated iAsh
+[05:26:58.222] PlayerLeft Hypno Dog  userid:  usr_65cbd743-b30c-4be5-a90e-4befded100cc
+[05:26:58.223] Photon player disconnected: Hypno Dog
+[05:27:14.983] PlayerLeft EVILxINSIDE  userid:  usr_de985734-d2d8-4979-a508-3fbba3dfe69c
+[05:27:14.985] Photon player disconnected: EVILxINSIDE
+[05:27:15.301] PlayerLeft Quill4  userid:  usr_19f85ce4-9971-4d4e-99f5-64acb8fa8ff0
+[05:27:15.302] Photon player disconnected: Quill4
+[05:27:19.208] Photon player connected: yofamsteve
+[05:27:19.733] [SwitchAvatarPatchPrefix] yofamsteve yupyupyup avtr_04aacb96-6a5c-41ee-80e8-75330c8cf4d7
+[05:27:19.734] Asset url: https://api.vrchat.cloud/api/1/file/file_a4be9896-21d7-4d95-b791-d73de62085c6/3/file
+[05:27:19.735] unityVersion: 2018.4.20f1
+[05:27:19.746] [emmVRCLoader] Player joined: yofamsteve
+[05:27:19.752] PlayerJoin yofamsteve  userid:  usr_2791d811-a427-4399-8ed5-7b94609f5306
+[05:27:22.540] PlayerLeft Warman2126  userid:  usr_1c32d890-1485-41dd-b676-d084e635c9fe
+[05:27:22.541] Photon player disconnected: Warman2126
+[05:27:27.402] AntiCrash yofamsteve   avtr_04aacb96-6a5c-41ee-80e8-75330c8cf4d7
+[05:27:28.396] PlayerLeft psych0pacifist  userid:  usr_cbdb1a57-a03e-4b23-a246-c2f23eff6f0b
+[05:27:28.397] Photon player disconnected: psych0pacifist
+[05:27:31.825] [AntiCrashForPlayers] original call
+[05:27:34.602] OnAvatarCreated yofamsteve
+[05:27:40.407] [OnApplication] isFocused True
+[05:27:43.209] Photon player connected: Mr Sodow
+[05:27:43.699] [SwitchAvatarPatchPrefix] Mr Sodow Nekolita Male PC ＆ Quest avtr_2696a9cb-8ca4-4214-a265-4b55304f917f
+[05:27:43.700] Asset url: https://api.vrchat.cloud/api/1/file/file_c129bbd8-3537-49de-8716-74d64f6d170a/1/file
+[05:27:43.700] unityVersion: 2018.4.20f1
+[05:27:43.701] [emmVRCLoader] Player joined: Mr Sodow
+[05:27:43.708] PlayerJoin Mr Sodow  userid:  usr_561a4293-2e9a-4eba-9155-a59dca1f690e
+[05:27:43.774] AntiCrash Mr Sodow   avtr_2696a9cb-8ca4-4214-a265-4b55304f917f
+[05:27:44.667] [OnApplication] isFocused False
+[05:27:45.294] [AntiCrashForPlayers] original call
+[05:27:48.043] OnAvatarCreated Mr Sodow
+[05:27:50.834] PlayerLeft Cjack64  userid:  usr_6a3ea791-8615-4dd5-b925-6f70d6542b64
+[05:27:50.835] Photon player disconnected: Cjack64
+[05:27:52.547] Photon player connected: PB＆J
+[05:27:53.515] [SwitchAvatarPatchPrefix] PB＆J Red PonyTail avtr_1fc16f2c-b77a-4c41-97f0-069b7bc1a6e3
+[05:27:53.516] Asset url: https://api.vrchat.cloud/api/1/file/file_93f26dc2-3c96-48fe-85f9-ab5154fc66f1/1/file
+[05:27:53.516] unityVersion: 2017.4.28f1
+[05:27:53.518] [emmVRCLoader] Player joined: PB＆J
+[05:27:53.523] PlayerJoin PB＆J  userid:  usr_676bda7a-7c9d-4ca7-b876-3a1ede85bbe1
+[05:27:55.226] AntiCrash PB＆J   avtr_1fc16f2c-b77a-4c41-97f0-069b7bc1a6e3
+[05:27:57.817] [AntiCrashForPlayers] original call
+[05:28:00.574] OnAvatarCreated PB＆J
+[05:28:01.936] [Avatars] (Posting) Created
+[05:28:14.899] Photon player connected: Hatty Schoel
+[05:28:16.824] [SwitchAvatarPatchPrefix] Hatty Schoel Hatty Chain avtr_057c22e3-cea8-4474-8bb0-dd0f28b4adc0
+[05:28:16.825] Asset url: https://api.vrchat.cloud/api/1/file/file_154ba3a0-b982-4cd3-979b-e45d962956a9/1/file
+[05:28:16.826] unityVersion: 2018.4.20f1
+[05:28:16.827] [emmVRCLoader] Player joined: Hatty Schoel
+[05:28:16.832] PlayerJoin Hatty Schoel  userid:  usr_72ec1e66-9c75-4450-a2d1-1253b66c11cc
+[05:28:16.860] AntiCrash Hatty Schoel   avtr_057c22e3-cea8-4474-8bb0-dd0f28b4adc0
+[05:28:21.057] [AntiCrashForPlayers] original call
+[05:28:23.730] Photon player connected: Warman2126
+[05:28:23.818] OnAvatarCreated Hatty Schoel
+[05:28:24.501] [SwitchAvatarPatchPrefix] Warman2126 RVB˸ Caboose ［Halo 5］ avtr_10953b78-1719-462f-b3eb-34761d652a02
+[05:28:24.502] Asset url: https://api.vrchat.cloud/api/1/file/file_931bc11b-3031-43f8-9d04-c6d620517531/14/file
+[05:28:24.502] unityVersion: 2018.4.20f1
+[05:28:24.503] [emmVRCLoader] Player joined: Warman2126
+[05:28:24.508] PlayerJoin Warman2126  userid:  usr_1c32d890-1485-41dd-b676-d084e635c9fe
+[05:28:24.537] AntiCrash Warman2126   avtr_10953b78-1719-462f-b3eb-34761d652a02
+[05:28:25.969] [AntiCrashForPlayers] original call
+[05:28:28.784] OnAvatarCreated Warman2126
+[05:29:02.726] [OnApplication] isFocused True
+[05:29:09.190] Voice On
+[05:29:15.865] [SwitchAvatarPatchPrefix] Broloffski Deadmau5 avtr_b4878caa-4d99-4480-b935-606b05c1ef13
+[05:29:15.866] Asset url: https://api.vrchat.cloud/api/1/file/file_c80b91a3-dc21-4c0f-94c2-b718887c2296/1/file
+[05:29:15.866] unityVersion: 2017.4.15f1
+[05:29:15.902] AntiCrash Broloffski   avtr_b4878caa-4d99-4480-b935-606b05c1ef13
+[05:29:16.353] ConfigurePortal  MittensFittens   wrld_fae3fa95-bc18-46f0-af57-f0c97c0ca90a:65626~hidden(usr_9d80e295-550c-4438-bd79-135ca21f932b)~nonce(9B55D1E9FF75AEE65A2E8C729955954D25BCB530FDC7F4BF366C50E5CDAB89AA)
+[05:29:17.315] [AntiCrashForPlayers] original call
+[05:29:17.947] PlayerLeft ~LilRitz88~  userid:  usr_ac920036-e30f-4507-97fb-26fd847d972c
+[05:29:17.948] Photon player disconnected: ~LilRitz88~
+[05:29:18.605] PlayerLeft LiptonTBaggins  userid:  usr_bfe7e19a-2f8e-4d17-9378-be947b44a714
+[05:29:18.606] Photon player disconnected: LiptonTBaggins
+[05:29:18.747] OnAvatarCreated Broloffski
+[05:29:19.876] PlayerLeft MittensFittens  userid:  usr_9d80e295-550c-4438-bd79-135ca21f932b
+[05:29:19.877] Photon player disconnected: MittensFittens
+[05:29:33.054] [OnApplication] isFocused False
+[05:29:42.311] PlayerLeft LtCosmos  userid:  usr_74de3616-bc19-4f46-8311-31e0fe7cfb02
+[05:29:42.312] Photon player disconnected: LtCosmos
+[05:29:44.398] PlayerLeft yofamsteve  userid:  usr_2791d811-a427-4399-8ed5-7b94609f5306
+[05:29:44.399] Photon player disconnected: yofamsteve
+[05:29:51.583] Photon player connected: leviathan773
+[05:29:52.102] [SwitchAvatarPatchPrefix] leviathan773 PrinceLeviathan avtr_4538ca47-6a8e-4ee9-914c-520cfccca16a
+[05:29:52.103] Asset url: https://api.vrchat.cloud/api/1/file/file_e7a00bfd-25dd-410f-b4a2-68102f53876b/19/file
+[05:29:52.104] unityVersion: 2018.4.20f1
+[05:29:52.118] [emmVRCLoader] Player joined: leviathan773
+[05:29:52.123] PlayerJoin leviathan773  userid:  usr_605ad345-8865-40a1-810a-3362b725ff11
+[05:29:52.148] AntiCrash leviathan773   avtr_4538ca47-6a8e-4ee9-914c-520cfccca16a
+[05:29:59.990] [AntiCrashForPlayers] original call
+[05:30:02.837] OnAvatarCreated leviathan773
+[05:30:24.444] Photon player connected: TinaJayMeow
+[05:30:24.822] [SwitchAvatarPatchPrefix] TinaJayMeow Xena avtr_feb6dc3d-8039-4fad-8467-155bfcf5e30a
+[05:30:24.824] Asset url: https://api.vrchat.cloud/api/1/file/file_97e4ff5e-1f6f-4377-91b0-3687418131a7/9/file
+[05:30:24.824] unityVersion: 2018.4.20f1
+[05:30:24.826] [emmVRCLoader] Player joined: TinaJayMeow
+[05:30:24.830] PlayerJoin TinaJayMeow  userid:  usr_aec7588c-84d6-4c46-aadd-ad06cafb99a9
+[05:30:28.388] AntiCrash TinaJayMeow   avtr_feb6dc3d-8039-4fad-8467-155bfcf5e30a
+[05:30:32.255] [AntiCrashForPlayers] original call
+[05:30:33.249] Photon player connected: Cjack64
+[05:30:34.747] [SwitchAvatarPatchPrefix] Cjack64 tommy avtr_ed4aa80d-3c58-4445-a76c-c18c3bc11cb8
+[05:30:34.748] Asset url: https://api.vrchat.cloud/api/1/file/file_440b2f74-6c36-4cf1-aede-620fa918dcf8/1/file
+[05:30:34.748] unityVersion: 2018.4.20f1
+[05:30:34.749] [emmVRCLoader] Player joined: Cjack64
+[05:30:34.754] PlayerJoin Cjack64  userid:  usr_6a3ea791-8615-4dd5-b925-6f70d6542b64
+[05:30:34.782] AntiCrash Cjack64   avtr_ed4aa80d-3c58-4445-a76c-c18c3bc11cb8
+[05:30:35.023] OnAvatarCreated TinaJayMeow
+[05:30:37.774] [AntiCrashForPlayers] original call
+[05:30:40.538] OnAvatarCreated Cjack64
+[05:30:42.564] [OnApplication] isFocused True
+[05:30:45.942] [OnApplication] isFocused False
+[05:30:47.364] Photon player connected: breakfast07
+[05:30:47.805] [SwitchAvatarPatchPrefix] breakfast07 Simple TS Model avtr_9390dfcb-96c6-4d10-8004-ed791832bb1b
+[05:30:47.805] Asset url: https://api.vrchat.cloud/api/1/file/file_a8103d80-152b-4072-8b97-1f67e872452a/15/file
+[05:30:47.806] unityVersion: 2018.4.20f1
+[05:30:47.818] [emmVRCLoader] Player joined: breakfast07
+[05:30:47.824] PlayerJoin breakfast07  userid:  usr_090553a6-33bb-400d-b134-8b266030a1bb
+[05:30:54.038] AntiCrash breakfast07   avtr_9390dfcb-96c6-4d10-8004-ed791832bb1b
+[05:30:55.684] [AntiCrashForPlayers] original call
+[05:30:58.451] OnAvatarCreated breakfast07
+[05:31:02.338] [Avatars] (Posting) Created
+[05:31:32.405] [Avatars] (Posting) Created
+[05:32:04.185] Photon player connected: bonechilli
+[05:32:04.797] [SwitchAvatarPatchPrefix] bonechilli Scare Jester avtr_20703496-7bf4-45f4-be12-5ee1f287800b
+[05:32:04.798] Asset url: https://api.vrchat.cloud/api/1/file/file_657a096e-97e4-4ef3-ba57-3fa7b2250ace/6/file
+[05:32:04.799] unityVersion: 2017.4.28f1
+[05:32:04.801] [emmVRCLoader] Player joined: bonechilli
+[05:32:04.808] PlayerJoin bonechilli  userid:  usr_71984dff-202c-4422-a21d-aee51016d8e1
+[05:32:07.510] AntiCrash bonechilli   avtr_20703496-7bf4-45f4-be12-5ee1f287800b
+[05:32:12.752] [AntiCrashForPlayers] original call
+[05:32:15.540] OnAvatarCreated bonechilli
+[05:32:19.423] PlayerLeft Daddy Chai  userid:  usr_1d7d4325-9d36-4d90-a163-e6b6c38a598f
+[05:32:19.424] Photon player disconnected: Daddy Chai
+[05:32:32.874] [Avatars] (Posting) Created
+[05:33:03.031] Photon player connected: Hexadiene
+[05:33:03.315] PlayerLeft Captain Pack  userid:  usr_4b7bfa8f-9ca8-4690-a829-2bdcb3764459
+[05:33:03.316] Photon player disconnected: Captain Pack
+[05:33:03.712] [SwitchAvatarPatchPrefix] Hexadiene GodPrince avtr_37ad8980-52f3-4956-b494-c9d36040e5d8
+[05:33:03.713] Asset url: https://api.vrchat.cloud/api/1/file/file_d46a9643-8cff-4cea-a35d-982757c62e2a/2/file
+[05:33:03.714] unityVersion: 2018.4.20f1
+[05:33:03.727] [emmVRCLoader] Player joined: Hexadiene
+[05:33:03.733] PlayerJoin Hexadiene  userid:  usr_a836de07-42aa-42d2-b522-352cc09433bd
+[05:33:13.981] AntiCrash Hexadiene   avtr_37ad8980-52f3-4956-b494-c9d36040e5d8
+[05:33:21.658] PlayerLeft breakfast07  userid:  usr_090553a6-33bb-400d-b134-8b266030a1bb
+[05:33:21.659] Photon player disconnected: breakfast07
+[05:33:21.856] [AntiCrashForPlayers] original call
+[05:33:24.709] OnAvatarCreated Hexadiene
+[05:33:28.464] PlayerLeft PB＆J  userid:  usr_676bda7a-7c9d-4ca7-b876-3a1ede85bbe1
+[05:33:28.465] Photon player disconnected: PB＆J
+[05:34:00.554] [OnApplication] isFocused True
+[05:34:18.277] PlayerLeft Broloffski  userid:  usr_a4495dd4-3645-456a-bec4-820b701c9bda
+[05:34:18.279] Photon player disconnected: Broloffski
+[05:34:29.949] [OnApplication] isFocused False
+[05:34:31.309] Photon player connected: NotSoSneakyEon 2d63
+[05:34:31.879] [SwitchAvatarPatchPrefix] NotSoSneakyEon waifu's eboy avtr_1a1bd3f7-ddc0-4071-b3ea-41fc10633d85
+[05:34:31.880] Asset url: https://api.vrchat.cloud/api/1/file/file_8729bec7-cf27-4b6e-95db-253c321f4612/1/file
+[05:34:31.881] unityVersion: 2018.4.20f1
+[05:34:31.882] [emmVRCLoader] Player joined: NotSoSneakyEon
+[05:34:31.887] PlayerJoin NotSoSneakyEon  userid:  usr_39d7203a-7aeb-4bbf-8701-6810a2a82d63
+[05:34:33.638] Photon player connected: TibbiBasiic
+[05:34:34.424] AntiCrash NotSoSneakyEon   avtr_1a1bd3f7-ddc0-4071-b3ea-41fc10633d85
+[05:34:35.303] [SwitchAvatarPatchPrefix] TibbiBasiic uwu's avtr_b57a437a-628e-4dba-995d-2b116892f055
+[05:34:35.304] Asset url: https://api.vrchat.cloud/api/1/file/file_c712715f-2ce8-41d4-b26b-3a564acb90c5/1/file
+[05:34:35.304] unityVersion: 2018.4.20f1
+[05:34:35.306] [emmVRCLoader] Player joined: TibbiBasiic
+[05:34:35.311] PlayerJoin TibbiBasiic  userid:  usr_861d8057-def3-4d71-89a9-f77ab0e80687
+[05:34:37.372] [AntiCrashForPlayers] original call
+[05:34:38.467] AntiCrash TibbiBasiic   avtr_b57a437a-628e-4dba-995d-2b116892f055
+[05:34:39.799] [OnApplication] isFocused True
+[05:34:40.000] OnAvatarCreated NotSoSneakyEon
+[05:34:40.378] [AntiCrashForPlayers] original call
+[05:34:41.926] OnAvatarCreated TibbiBasiic
+[05:34:48.126] [OnApplication] isFocused False
+[05:34:50.329] [OnApplication] isFocused True
+[05:34:54.590] [OnApplication] isFocused False
+[05:34:55.006] PlayerLeft Anger Beaver  userid:  usr_3bdbacb2-d24a-436a-90ba-662176340c98
+[05:34:55.007] Photon player disconnected: Anger Beaver
+[05:35:03.216] [Avatars] (Posting) Created
+[05:35:18.560] Photon player connected: TheHeadsetvr
+[05:35:20.179] [SwitchAvatarPatchPrefix] TheHeadsetvr Neko Paws Tex FrikaFrack Smaller avtr_43a7decc-edf5-495a-bde5-983e393abd4e
+[05:35:20.180] Asset url: https://api.vrchat.cloud/api/1/file/file_e6889b9d-b352-47f6-ae08-ff2d8c4fd88b/17/file
+[05:35:20.181] unityVersion: 2018.4.20f1
+[05:35:20.182] [emmVRCLoader] Player joined: TheHeadsetvr
+[05:35:20.187] PlayerJoin TheHeadsetvr  userid:  usr_9cd65eae-c105-4750-bbf6-1f922e6ad081
+[05:35:22.619] AntiCrash TheHeadsetvr   avtr_43a7decc-edf5-495a-bde5-983e393abd4e
+[05:35:25.411] [AntiCrashForPlayers] original call
+[05:35:28.207] OnAvatarCreated TheHeadsetvr
+[05:35:33.214] [Avatars] (Posting) Created
+[05:35:54.792] [OnApplication] isFocused True
+[05:36:03.217] [Avatars] (Posting) Created
+[05:36:13.793] [OnApplication] isFocused False
+[05:36:19.070] [OnApplication] isFocused True
+[05:36:24.624] [OnApplication] isFocused False
+[05:36:26.426] [OnApplication] isFocused True
+[05:36:38.263] PlayerLeft Hatty Schoel  userid:  usr_72ec1e66-9c75-4450-a2d1-1253b66c11cc
+[05:36:38.264] Photon player disconnected: Hatty Schoel
+[05:36:46.283] [SwitchAvatarPatchPrefix] WarlordxKrog Keanu Reeves Monitor Face avtr_5c8be9d5-45e1-4419-928c-fb4a1636f569
+[05:36:46.285] Asset url: https://api.vrchat.cloud/api/1/file/file_7afc04cf-5df8-4b32-9207-e2424fa7405a/2/file
+[05:36:46.285] unityVersion: 2017.4.15f1
+[05:36:46.321] AntiCrash WarlordxKrog   avtr_5c8be9d5-45e1-4419-928c-fb4a1636f569
+[05:36:47.569] [AntiCrashForPlayers] original call
+[05:36:49.221] OnAvatarCreated WarlordxKrog
+[05:36:58.140] [OnApplication] isFocused False
+[05:37:00.920] PlayerLeft CumlordMango  userid:  usr_7139bf75-0b7e-4e24-948c-995621b06795
+[05:37:00.921] Photon player disconnected: CumlordMango
+[05:37:02.596] PlayerLeft RedThrobbinHoo  userid:  usr_2740c737-eb8d-4468-b41c-a785ec524202
+[05:37:02.597] Photon player disconnected: RedThrobbinHood
+[05:37:10.769] [SwitchAvatarPatchPrefix] WarlordxKrog Tatted Kori avtr_dc2c0d0c-b7ef-495e-a6b6-e05a26bde557
+[05:37:10.770] Asset url: https://api.vrchat.cloud/api/1/file/file_dafb41d5-e96a-40ae-be4b-3397297347d6/1/file
+[05:37:10.770] unityVersion: 2017.4.28f1
+[05:37:10.820] AntiCrash WarlordxKrog   avtr_dc2c0d0c-b7ef-495e-a6b6-e05a26bde557
+[05:37:12.489] [AntiCrashForPlayers] original call
+[05:37:15.252] OnAvatarCreated WarlordxKrog
+[05:37:23.181] [OnApplication] isFocused True
+[05:37:24.034] [OnApplication] isFocused False
+[05:37:27.122] Photon player connected: T-birdǃ
+[05:37:27.692] [SwitchAvatarPatchPrefix] T-birdǃ Darkcloud Wolf Pack M․ avtr_a8819795-38b5-4f35-b255-be6be3f95f6e
+[05:37:27.693] Asset url: https://api.vrchat.cloud/api/1/file/file_844c9fd6-f9b2-40c0-bd3c-8aa0bb4f1d4b/1/file
+[05:37:27.693] unityVersion: 2018.4.20f1
+[05:37:27.694] [emmVRCLoader] Player joined: T-birdǃ
+[05:37:27.700] PlayerJoin T-birdǃ  userid:  usr_966604ec-1a2b-4013-aaa1-29909dc1adb2
+[05:37:32.998] Photon player connected: Tenebric
+[05:37:34.135] [SwitchAvatarPatchPrefix] Tenebric DarkCloud Wolf Pack M․ avtr_347156a3-a579-4f5d-89f0-f03c8e1dc9ca
+[05:37:34.136] Asset url: https://api.vrchat.cloud/api/1/file/file_26d77b67-a908-4159-9984-baa0dde82282/2/file
+[05:37:34.137] unityVersion: 2018.4.20f1
+[05:37:34.139] [emmVRCLoader] Player joined: Tenebric
+[05:37:34.144] PlayerJoin Tenebric  userid:  usr_bb505279-30ab-488e-80c1-09d139a6e6d9
+[05:37:34.253] AntiCrash T-birdǃ   avtr_a8819795-38b5-4f35-b255-be6be3f95f6e
+[05:37:39.562] AntiCrash Tenebric   avtr_347156a3-a579-4f5d-89f0-f03c8e1dc9ca
+[05:37:39.877] [AntiCrashForPlayers] original call
+[05:37:42.657] OnAvatarCreated T-birdǃ
+[05:37:44.447] [AntiCrashForPlayers] original call
+[05:37:46.949] [OnApplication] isFocused True
+[05:37:47.127] OnAvatarCreated Tenebric
+[05:37:48.060] [OnApplication] isFocused False
+[05:38:04.282] [Avatars] (Posting) Created
+[05:38:17.015] Photon player connected: evale3
+[05:38:18.504] [SwitchAvatarPatchPrefix] evale3 TEKIXd UWU avtr_b0010c91-3b85-491e-bcfc-6587d161e86d
+[05:38:18.505] Asset url: https://api.vrchat.cloud/api/1/file/file_1a94f52d-ccb8-4d36-9b36-224f60979f1b/3/file
+[05:38:18.505] unityVersion: 2018.4.20f1
+[05:38:18.507] [emmVRCLoader] Player joined: evale3
+[05:38:18.513] PlayerJoin evale3  userid:  usr_4babdeca-740e-4abb-8bb5-50ed982aa2b0
+[05:38:20.268] AntiCrash evale3   avtr_b0010c91-3b85-491e-bcfc-6587d161e86d
+[05:38:20.864] [ERROR] [SkinnedMeshRenderers]  Avatar exceeded limit sharedMesh poly 163465
+[05:38:20.952] OnAvatarCreated evale3
+[05:38:22.821] Photon player connected: Headshot_While_Lagging 37af
+[05:38:24.467] [SwitchAvatarPatchPrefix] Headshot_While Marcus Fenix （LOADOUT） avtr_8917bc4e-0c33-43d7-a460-e9b00eb45e08
+[05:38:24.468] Asset url: https://api.vrchat.cloud/api/1/file/file_3c9caca4-9f19-444a-963b-99782ea2b27a/3/file
+[05:38:24.469] unityVersion: 2018.4.20f1
+[05:38:24.482] [emmVRCLoader] Player joined: Headshot_While
+[05:38:24.487] PlayerJoin Headshot_While  userid:  usr_ac736602-4cca-4c5d-95c5-930bf80f37af
+[05:38:27.217] [OnApplication] isFocused True
+[05:38:28.419] AntiCrash Headshot_While   avtr_8917bc4e-0c33-43d7-a460-e9b00eb45e08
+[05:38:29.351] [OnApplication] isFocused False
+[05:38:31.838] [OnApplication] isFocused True
+[05:38:32.235] [AntiCrashForPlayers] original call
+[05:38:33.781] OnAvatarCreated Headshot_While
+[05:38:34.278] [OnApplication] isFocused False
+[05:38:34.869] [Avatars] (Posting) Created
+[05:38:35.596] [OnApplication] isFocused True
+[05:38:58.208] Photon player connected: Spooky2001
+[05:39:00.416] [SwitchAvatarPatchPrefix] Spooky2001 Dawnv4 avtr_a58fd371-97f8-4c1f-8c9d-ffb486f06ec4
+[05:39:00.417] Asset url: https://api.vrchat.cloud/api/1/file/file_11c4a9c7-6fc9-4134-bd37-3dd7740cf591/4/file
+[05:39:00.417] unityVersion: 2018.4.20f1
+[05:39:00.418] [emmVRCLoader] Player joined: Spooky2001
+[05:39:00.424] PlayerJoin Spooky2001  userid:  usr_fa90d438-2cd5-4f2c-8fcc-a4a04fd3a456
+[05:39:00.457] AntiCrash Spooky2001   avtr_a58fd371-97f8-4c1f-8c9d-ffb486f06ec4
+[05:39:02.760] [AntiCrashForPlayers] original call
+[05:39:04.235] OnAvatarCreated Spooky2001
+[05:39:04.930] [Avatars] (Posting) Created
+[05:39:12.376] [OnApplication] isFocused False
+[05:39:13.259] [OnApplication] isFocused True
+[05:39:18.736] [OnApplication] isFocused False
+[05:39:34.922] [Avatars] (Posting) Created
+[05:39:37.209] [OnApplication] isFocused True
+[05:39:40.575] [PlaceUi]
+[05:39:40.582] [OpenMenu] 
+[05:39:43.729] [CloseMenu] 
+[05:39:43.731] [PlaceUi]
+[05:39:43.743] [OpenUi] SCREEN  Worlds
+[05:39:43.877] [PlaceUi]
+[05:39:45.814] [CloseUi]
+[05:39:47.701] [PlaceUi]
+[05:39:47.709] [OpenMenu] 
+[05:39:48.678] [OnApplication] isFocused False
+[05:39:54.517] [OnApplication] isFocused True
+[05:39:55.623] [CloseMenu] 
+[05:39:56.030] Photon player connected: gamergirl1415
+[05:39:56.406] [OnApplication] isFocused False
+[05:39:56.548] [SwitchAvatarPatchPrefix] gamergirl1415 W_Selene_sfw avtr_92e71ea1-3258-447c-b885-31fc1f499cd4
+[05:39:56.549] Asset url: https://api.vrchat.cloud/api/1/file/file_50d6fb42-daa2-42d0-9bb9-72d31f9e7c45/5/file
+[05:39:56.550] unityVersion: 2017.4.28f1
+[05:39:56.551] [emmVRCLoader] Player joined: gamergirl1415
+[05:39:56.557] PlayerJoin gamergirl1415  userid:  usr_4da745ed-c643-4013-909a-b606744b3e1b
+[05:40:01.813] AntiCrash gamergirl1415   avtr_92e71ea1-3258-447c-b885-31fc1f499cd4
+[05:40:04.056] [AntiCrashForPlayers] original call
+[05:40:06.833] OnAvatarCreated gamergirl1415
+[05:40:11.055] [OnApplication] isFocused True
+[05:40:11.611] [OnApplication] isFocused False
+[05:40:12.774] OnApplicationQuit
+[05:40:12.779] [DiscordManager] DiscordRpc.Shutdown
+[05:40:12.918] Preferences Saved!
+[05:40:13.034] [JoinNotifier] Settings apply start
+[05:40:13.035] [JoinNotifier] Settings apply done
