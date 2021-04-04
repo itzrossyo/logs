@@ -1,0 +1,987 @@
+[01:59:58.950] ------------------------------
+[01:59:58.950] MelonLoader v0.3.0 ALPHA Pre-Release
+[01:59:58.950] Hash Code: 25889
+[01:59:58.951] OS: Windows 10
+[01:59:58.951] ------------------------------
+[01:59:58.951] Name: VRChat
+[01:59:58.951] Developer: VRChat
+[01:59:58.951] Unity Version: 2018.4.20
+[01:59:58.951] Type: Il2Cpp
+[01:59:58.952] Arch: x64
+[01:59:58.952] ------------------------------
+
+[01:59:59.305] Contacting RemoteAPI...
+[01:59:59.435] ForceDumperVersion = null
+[01:59:59.435] ForceUnhollowerVersion = null
+[01:59:59.435] ObfuscationRegex = null
+[01:59:59.435] MappingURL = https://github.com/LavaGang/Deobfuscation-Maps/raw/master/VRChat/1069.0.csv.gz
+[01:59:59.897] MappingFileSHA512 = 8bd05422a03f5f1c8120fbbd6f64827563ebf648e1397211a0112415f2b2be61a3890dc61fe3d8919d78df3395e122590beddf3aa5a60302dda26c4d9eb49963
+[01:59:59.933] Unity Dependencies are up to date. No Download Needed.
+[01:59:59.934] Il2CppDumper is up to date. No Download Needed.
+[01:59:59.934] Il2CppAssemblyUnhollower is up to date. No Download Needed.
+[01:59:59.935] Deobfuscation Map is up to date. No Download Needed.
+[01:59:59.935] Checking GameAssembly...
+[01:59:59.935] Old: c0bc5e13a49a2e19ef378ef7bbe122bb
+[01:59:59.935] Current: c0bc5e13a49a2e19ef378ef7bbe122bb
+[01:59:59.935] Assembly is up to date. No Generation Needed.
+
+[02:00:00.251] Preferences Loaded!
+[02:00:00.256] Loading Plugins...
+
+[02:00:00.261] ------------------------------
+[02:00:00.262] No Plugins Loaded!
+[02:00:00.262] ------------------------------
+
+[02:00:00.799] Loading Support Module...
+
+[02:00:00.896] Loading Mods...
+[02:00:00.933] [ERROR] No MelonInfoAttribute Found in F:\SteamLibrary\steamapps\common\VRChat\Mods\LiteDB.dll!
+[02:00:00.952] [ERROR] ===================================================================
+[02:00:00.952] [ERROR] You're using MelonLoader with important security features missing.
+[02:00:00.954] [ERROR] This exposes you to additional risks from certain malicious actors,
+[02:00:00.954] [ERROR] including account theft, account bans, and other unwanted consequences
+[02:00:00.955] [ERROR] If this is not what you want, download the official installer from
+[02:00:00.956] [ERROR] https://github.com/LavaGang/MelonLoader/releases
+[02:00:00.956] [ERROR] then close this console, and reinstall MelonLoader using it.
+[02:00:00.957] [ERROR] If you want to accept those risks, press Enter to continue
+[02:00:00.958] [ERROR] ===================================================================
+
+[02:00:07.328] ------------------------------
+[02:00:07.329] 11 Mods Loaded
+[02:00:07.330] ------------------------------
+[02:00:07.330] ActionMenuRespawn v1.3.0
+[02:00:07.331] by gompo#6956
+[02:00:07.334] SHA256 Hash: 23b68ad670299c91860bf36c8604b9eb27eb28341606b86e8bb4ed9685630d5a
+[02:00:07.335] ------------------------------
+[02:00:07.335] AvatarHider v1.1.1
+[02:00:07.336] by ImTiara
+[02:00:07.337] SHA256 Hash: d589a73e79a7a88f618bd6017fd318b0ff68a4bdb89229cdb0f7fdef3a8b6d96
+[02:00:07.337] ------------------------------
+[02:00:07.337] emmVRCLoader v1.1.0
+[02:00:07.338] by The emmVRC Team
+[02:00:07.339] SHA256 Hash: 32ae170da2609f1d816578eba25f1da7d11933d4354b4fb188c1a7750c55f5a2
+[02:00:07.339] ------------------------------
+[02:00:07.340] Final IK Sanity v1.0.0
+[02:00:07.340] by Ben
+[02:00:07.341] SHA256 Hash: d87199e7c8e7d8520997b9cd0e14961d26939f07e2575fbd60085431ef798a97
+[02:00:07.342] ------------------------------
+[02:00:07.342] JoinNotifier v0.2.8
+[02:00:07.344] by knah
+[02:00:07.346] SHA256 Hash: 036ae123eefef3510ce3acbf0c14ac468ce15e6428d43218ef2b6ba756e308dd
+[02:00:07.346] ------------------------------
+[02:00:07.347] TeoLoader v100.500.0
+[02:00:07.347] by Teo
+[02:00:07.349] SHA256 Hash: b9c45f90531dc7ee5497f7d2bb10ed43f65ddfc587dfa2919a082a7edf2617d4
+[02:00:07.349] ------------------------------
+[02:00:07.350] UI Expansion Kit v0.2.3
+[02:00:07.350] by knah
+[02:00:07.354] SHA256 Hash: e0899b16ab5fb3aa25557817bec5cf2ae6f1d9ae80287d21a2370763f90111a3
+[02:00:07.354] ------------------------------
+[02:00:07.355] BTKSANameplateMod v2.2.4
+[02:00:07.356] by DDAkebono#0001
+[02:00:07.357] SHA256 Hash: 8a7e20738569c36cb64b9352849b8e0451fedeaa89a17411ccef7a8e3e43c227
+[02:00:07.357] ------------------------------
+[02:00:07.358] Safety-Presets v0.0.3
+[02:00:07.359] by 死神#6938
+[02:00:07.360] SHA256 Hash: 62cde2babfbf8ec72abd5e1fbd7ae20f0c8050535d77b1d1c1178c015c723862
+[02:00:07.361] ------------------------------
+[02:00:07.361] True Shader Anticrash v1.0.0
+[02:00:07.362] by knah
+[02:00:07.364] SHA256 Hash: 831c8a61f84afbe232ff1bac7453722b866f0542ec9af7e888d5fb90ec7a3cbd
+[02:00:07.364] ------------------------------
+[02:00:07.365] UserInfoExtensions v2.3.3
+[02:00:07.366] by loukylor
+[02:00:07.367] SHA256 Hash: 43920445fdbe3e110f5a970c2e5f4ec6c5b2706cb47b456cf80e0f151a835307
+[02:00:07.367] ------------------------------
+[02:00:07.573] [ActionMenuRespawn] Found Options Page:Method_Public_Void_PDM_1
+[02:00:07.618] [emmVRCLoader] [emmVRCLoader] Checking if emmVRC can Load...
+[02:00:07.880] [emmVRCLoader] [emmVRCLoader] emmVRC can be loaded!
+[02:00:07.881] [emmVRCLoader] [emmVRCLoader] Downloading emmVRC...
+[02:00:08.054] [emmVRCLoader] [emmVRCLoader] OnApplicationStart called
+[02:00:08.091] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:08.093] [TeoLoader] OnApplicationStart
+[02:00:08.212] [Safety-Presets] [NotAnError] -> No presets to populate dropdowns in the mod settings.
+[02:00:08.305] [UserInfoExtensions] [ERROR] Error while trying to run method "Init" in module "UserInfoExtentions.Utilities.VRCUtils:"
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.InvalidOperationException: Sequence contains no elements
+  at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x00010] in <fbb5ed17eb6e46c680000f8910ebb50c>:0 
+  at UserInfoExtentions.Utilities.VRCUtils.Init () [0x00071] in <6c6db1306766424eb0db79b7709c6589>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at UserInfoExtentions.Utilities.VRCUtils.TryExecuteMethod (System.Reflection.MethodInfo method, System.Object instance, System.Object[] parameters) [0x00002] in <6c6db1306766424eb0db79b7709c6589>:0 
+[02:00:08.329] [UserInfoExtensions] Initialized!
+[02:00:09.410] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:09.760] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:10.221] [emmVRCLoader] VRChat build is: 1069
+[02:00:10.223] [emmVRCLoader] Initializing network...
+[02:00:10.800] [emmVRCLoader] Initialization is successful in 00.5s. Welcome to emmVRC!
+[02:00:10.800] [emmVRCLoader] You are running version 2.8.3
+[02:00:10.802] [TeoLoader] VRChat_OnUiManagerInit
+[02:00:10.804] [TeoLoader] Try load preloader.dll
+[02:00:11.199] [FakeDeviceID] True device id is 2cb7b2a71a149584f16d79bad75da5c46cdb2f6c
+[02:00:11.203] [FakeDeviceID] New(fake) device id is e8dca5a9b715381add56a66cb0a88663d2971219
+[02:00:11.243] [CheckLoaderVersion] loader size : 68096
+[02:00:11.315] [CheckLoaderVersion] downloaded 68096
+[02:00:11.317] [BTKSANameplateMod] BTK Standalone: Nameplate Mod - Starting up
+[02:00:11.357] [BTKSANameplateMod] Loading Nameplate Assets
+[02:00:11.358] [BTKSANameplateMod] Loaded Embedded resource
+[02:00:11.380] [UserInfoExtensions] UI Initialized!
+[02:00:11.382] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.467] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.476] [UI_Expansion_Kit] Decorating menus
+[02:00:11.515] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.520] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.527] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.580] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.599] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.606] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.613] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.620] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.627] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.633] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.640] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.647] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.654] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.661] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.667] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.674] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.682] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.688] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.695] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.702] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.709] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.716] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.722] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.729] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.736] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.743] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.750] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.757] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.763] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.770] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.777] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.784] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.791] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.798] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.804] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.811] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.818] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.826] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.833] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.840] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.847] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.853] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.860] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.867] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.874] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.881] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.887] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.894] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.901] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.908] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.915] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.922] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.929] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.935] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.942] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.949] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.956] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.963] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.970] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.976] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.983] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.991] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:11.997] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:12.004] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:12.011] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:12.018] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:12.025] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:12.031] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:12.038] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:12.045] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:12.052] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:12.059] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:12.065] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:12.072] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:12.079] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:12.086] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:12.093] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:12.100] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:12.107] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:12.113] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:12.120] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:12.127] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:12.134] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:12.141] [ERROR] System.MissingMethodException: void UnityEngine.WWW..ctor(string)
+  at MelonLoader.Support.Coroutines.ProcessNextOfCoroutine (System.Collections.IEnumerator enumerator) [0x0000d] in <3eee8eac086142ddba37a8c8622b6506>:0 
+[02:00:14.211] MessageBox_Show_string : This assembly is protected by an unregistered version of Eziriz's ".NET Reactor"!
+[02:00:14.229] Server Version : Release_2018_server_1067
+[02:00:14.231] VRChat build : 1069
+[02:00:14.238] 100.500.7763.31898
+[02:00:14.456] Settings Loaded
+[02:00:14.458] CheckAndApply
+[02:00:14.459] Settings states
+[02:00:14.460] settings.DiscordRpcAppId 823353338917290044
+[02:00:14.460] settings.Console True
+[02:00:14.461] settings.FpsMaxLimit 100
+[02:00:14.462] settings.FpsMinLimit 25
+[02:00:14.462] settings.fieldOfView 90
+[02:00:14.464] settings.EmojiWhenSpeakingNumber 26
+[02:00:14.466] AntiCrashLimiterFile exists C:\Users\rosse\AppData\LocalLow\VRChat\VRChat\config.json
+[02:00:14.547] [VRCUiManagerUtils] CloseUi found 
+[02:00:14.562] [VRCUiManagerUtils] OpenUi found 
+[02:00:14.608] [VRCFlowManager] EnterWorld Found
+[02:00:14.826] [NetworkManagerUtils] NetworkManager found : NetworkManager
+[02:00:14.936] [UiUserListPatches] UiUserListType found : UiUserList
+[02:00:14.975] [UiAvatarListPatches] UiAvatarListType found : UiAvatarList
+[02:00:15.117] [AntiCrash] VRCAvatarManager AttachAvatarEnumerator Count 2
+[02:00:15.199] [AntiCrash] Patch Nested : 
+[02:00:15.202] ObjectNPrivateSealedIEnumerator1ObjectIEnumeratorIDisposableInObGaApObBoBoBoObObUnique
+[02:00:15.212] ObjectNPrivateSealedIEnumerator1ObjectIEnumeratorIDisposableInObAcOb1GaApAcBoStUnique
+[02:00:15.347] [ShaderFilter] TrueShaderAntiCrash Mod found loading stopped
+[02:00:15.348] [ModuleManager] (Initialize) Module not initialised ObjectFacade
+[02:00:15.610] [PageWorldInfo] SetupWorldInfo 1
+[02:00:15.839] [UserInteractMenu] (SelectPlayer) found 1
+[02:00:15.887] [UserCameraControllerUtils] ViewFinder found
+[02:00:15.889] VRCVrCameraGoogle type name : MonoBehaviour1PublicVo17QuVoRaVeRaQu17VeUnique
+[02:00:15.964] VRC_StationInternal type name : VRC_StationInternal
+[02:00:16.770] [LoadingSound] Loaded from F:\SteamLibrary\steamapps\common\VRChat\music.ogg
+[02:00:16.778] [DiscordManager] Start
+[02:00:16.779] [DiscordManager.DeviceChanged] isInVR: False
+[02:00:16.781] [DiscordManager] RichPresence Initialised
+[02:00:16.784] [DiscordManager] RoomChanged
+[02:00:16.834] [LoadAs<T>] File.Exists ModuleSettings\Instances.json
+[02:00:16.840] [LoadAs<T>] JsonConvert.DeserializeObject<T> Success ModuleSettings\Instances.json
+[02:00:16.840] [SavedInstances] Loaded 15
+[02:00:17.368] [FullBodyCalibrationSaver] IsCalibratedForAvatar.Count 1
+[02:00:17.384] [FullBodyCalibrationSaver] PerformCalibration.Count 1
+[02:00:17.430] [LoadAs<T>] File.Exists ModuleSettings\FullBodyCalibrations.json
+[02:00:17.437] [LoadAs<T>] JsonConvert.DeserializeObject<T> Success ModuleSettings\FullBodyCalibrations.json
+[02:00:17.438] [SavedCalibrations] Loaded 2
+[02:00:17.487] [RecentAvatarsDB] Total Stored avatars: 66
+[02:00:17.537] RecentAvatarsDB Cropped to 61
+[02:00:17.990] FastJoin Found
+[02:00:18.020] [VRC_EventDispatcherRFC] variant 1
+[02:00:18.234] [ModerationManager] methods initialized 
+[02:00:18.264] [LoadAs<T>] File.Exists ModuleSettings\WayPoints.json
+[02:00:18.268] [LoadAs<T>] JsonConvert.DeserializeObject<T> Success ModuleSettings\WayPoints.json
+[02:00:18.269] [SavedWayPoints] Loaded 1
+[02:00:18.785] [Avatars] (Get) OK
+[02:00:18.787] SerealizedAvatars.Count 4
+[02:00:19.154] unityWebRequest OK
+[02:00:19.164] safetyPrefab loaded
+[02:00:19.166] blueprintId avtr_e2fe0c06-b37d-48cc-a5bb-ddb2777a2118
+[02:00:19.527] [OnStateChanged] ConnectingToNameServer
+[02:00:19.697] [OnStateChanged] ConnectedToNameServer
+[02:00:19.700] [OnStateChanged] Authenticating
+[02:00:19.826] [OnStateChanged] DisconnectingFromNameServer
+[02:00:19.847] [OnStateChanged] ConnectingToMasterserver
+[02:00:20.450] [OnStateChanged] Authenticating
+[02:00:20.669] [OnStateChanged] ConnectedToMasterserver
+[02:00:22.645] ----------------World Info----------------
+[02:00:22.646] name : The Abyss
+[02:00:22.647] id : wrld_ffe773ba-c31f-4f56-928b-0da8f256e435
+[02:00:22.647] unityVersion : 2018.4.20f1
+[02:00:22.648] assetUrl : https://api.vrchat.cloud/api/1/file/file_ae35ad3a-74bd-44b7-a007-1e2823674796/47/file
+[02:00:22.648] authorName : VVolfly
+[02:00:22.649] authorId : usr_8ec2e59d-0182-42fa-b1d9-5fa7f99da1bc
+[02:00:22.649] SelectWorld : The Abyss wrld_ffe773ba-c31f-4f56-928b-0da8f256e435
+[02:00:25.734] [OnApplication] isFocused True
+[02:00:31.527] SDK2 world loaded
+[02:00:32.379] [OpJoinRoom] Location : wrld_ffe773ba-c31f-4f56-928b-0da8f256e435:81401~private(usr_84e5fbbb-2fdc-4db0-a2cb-b15a4f676453)~nonce(59CAE04F1F7D05E7B9698ADED5AA42988AC0329A194F71B993D9459FE44D6F41)
+[02:00:32.380] [OnStateChanged] Joining
+[02:00:32.692] [OnStateChanged] DisconnectingFromMasterserver
+[02:00:32.867] [OnStateChanged] ConnectingToGameserver
+[02:00:33.068] [Safety-Presets] Current Instance Type -> InviteOnly
+[02:00:33.463] [OnStateChanged] Authenticating
+[02:00:33.670] [OnStateChanged] Joining
+[02:00:33.671] [OpJoinRoom] Location : wrld_ffe773ba-c31f-4f56-928b-0da8f256e435:81401~private(usr_84e5fbbb-2fdc-4db0-a2cb-b15a4f676453)~nonce(59CAE04F1F7D05E7B9698ADED5AA42988AC0329A194F71B993D9459FE44D6F41)
+[02:00:33.898] [OnStateChanged] Joined
+[02:00:33.902] Joined Room
+[02:00:34.162] [PlaceUi]
+[02:00:34.202] [SwitchAvatarPatchPrefix] itzRoss Underground avi avtr_713c5ed8-77e5-4275-a127-b58d5b0ed349
+[02:00:34.203] Asset url: https://api.vrchat.cloud/api/1/file/file_c6471cad-882f-4f30-a419-056af9fdfbb8/25/file
+[02:00:34.204] unityVersion: 2018.4.20f1
+[02:00:34.210] [Call] Awake
+[02:00:34.216] [DiscordManager] RoomChanged
+[02:00:34.218] [state] Local Player stats updated
+[02:00:34.227] [SaveAs<T>] Saved ModuleSettings\Instances.json
+[02:00:34.228] [KeyBinds] Alt+BackQuote(~) Home+Quit
+[02:00:34.229] [KeyBinds] Ctrl+L turn Light
+[02:00:34.229] [KeyBinds] Ctrl+M Toggle Mirrors
+[02:00:34.230] [KeyBinds] PageUp\T  Teleport
+[02:00:34.231] [KeyBinds] PageDown Fly
+[02:00:34.231] [KeyBinds] Space MultiJump
+[02:00:34.232] [KeyBinds] Home GoHome
+[02:00:34.232] [KeyBinds] Insert Reconnect
+[02:00:34.233] [KeyBinds] Delete delete portals
+[02:00:34.233] [KeyBinds] Pause Hear Only Friends
+[02:00:34.234] [KeyBinds] Escape before game loaded - close game
+[02:00:34.235] [KeyBinds] -----------------Premium-----------------
+[02:00:34.236] [KeyBinds] Ctrl+F5 Third Person
+[02:00:34.236] [KeyBinds] Ctrl+O Capsule ESP
+[02:00:34.242] NoChairs apply state : False
+[02:00:34.470] [RoomManager] World Creator fetched VVolfly
+[02:00:34.499] Fetched Online Users : 35909
+[02:00:34.976] [RoomManager] Instance Owner fetched itzRoss
+[02:00:35.199] AntiCrash itzRoss   avtr_713c5ed8-77e5-4275-a127-b58d5b0ed349
+[02:00:36.086] [AntiCrashForPlayers] original call
+[02:00:36.737] [PlaceUi]
+[02:00:36.779] OnAvatarCreated itzRoss
+[02:00:37.358] [CloseUi]
+[02:00:37.633] [emmVRCLoader] Player joined: itzRoss
+[02:01:50.391] [OnApplication] isFocused False
+[02:02:41.026] [OnApplication] isFocused True
+[02:02:47.423] [PlaceUi]
+[02:02:47.430] [OpenMenu] 
+[02:02:48.602] [CloseMenu] 
+[02:02:48.605] [PlaceUi]
+[02:02:48.612] [OpenUi] SCREEN  Social
+[02:02:48.613] [OpenUi] SCREEN  Social
+[02:02:48.699] [PlaceUi]
+[02:02:51.140] [OpenUi] SCREEN  UserInfo
+[02:02:51.146] [PageUserInfo] SetupUserInfo : Nukified usr_7325e157-f5bd-4b96-8e11-a87e2a4b06fe
+[02:02:52.060] [OnStateChanged] Leaving
+[02:02:52.306] [OnStateChanged] DisconnectingFromGameserver
+[02:02:52.488] Left Room
+[02:02:52.490] [DiscordManager] RoomChanged
+[02:02:52.492] [OnStateChanged] ConnectingToMasterserver
+[02:02:53.108] [OnStateChanged] Authenticating
+[02:02:53.335] [OnStateChanged] ConnectedToMasterserver
+[02:02:53.637] ----------------World Info----------------
+[02:02:53.638] name : Underground
+[02:02:53.639] id : wrld_aa2d309a-2548-4af3-88bb-3f15e53a2ade
+[02:02:53.640] unityVersion : 2018.4.20f1
+[02:02:53.640] assetUrl : https://api.vrchat.cloud/api/1/file/file_0321917a-60ec-4943-af39-e60e55673606/21/file
+[02:02:53.641] authorName : no~
+[02:02:53.641] authorId : usr_394b270f-daef-41f9-811a-2fe9f81e19a4
+[02:02:53.642] Select Instance : Underground   wrld_aa2d309a-2548-4af3-88bb-3f15e53a2ade:34125~hidden(usr_1e0b1fd4-ff19-47c2-b804-f4b24ed39aa6)~nonce(D785033C1E5C71100CBB45CC8FCE8B144B449207628CD29DC84C82BAC3AA75E1)
+[02:02:57.231] SDK3 world loaded
+[02:02:58.516] [OpJoinRoom] Location : wrld_aa2d309a-2548-4af3-88bb-3f15e53a2ade:34125~hidden(usr_1e0b1fd4-ff19-47c2-b804-f4b24ed39aa6)~nonce(D785033C1E5C71100CBB45CC8FCE8B144B449207628CD29DC84C82BAC3AA75E1)
+[02:02:58.517] [OnStateChanged] Joining
+[02:02:58.794] [OnStateChanged] DisconnectingFromMasterserver
+[02:02:58.981] [OnStateChanged] ConnectingToGameserver
+[02:02:59.585] [OnStateChanged] Authenticating
+[02:02:59.604] [Safety-Presets] Current Instance Type -> FriendsOfGuests
+[02:02:59.802] [OnStateChanged] Joining
+[02:02:59.803] [OpJoinRoom] Location : wrld_aa2d309a-2548-4af3-88bb-3f15e53a2ade:34125~hidden(usr_1e0b1fd4-ff19-47c2-b804-f4b24ed39aa6)~nonce(D785033C1E5C71100CBB45CC8FCE8B144B449207628CD29DC84C82BAC3AA75E1)
+[02:03:00.030] [OnStateChanged] Joined
+[02:03:00.031] Joined Room
+[02:03:00.145] [PlaceUi]
+[02:03:00.155] [SwitchAvatarPatchPrefix] itzRoss Underground avi avtr_713c5ed8-77e5-4275-a127-b58d5b0ed349
+[02:03:00.156] Asset url: https://api.vrchat.cloud/api/1/file/file_c6471cad-882f-4f30-a419-056af9fdfbb8/25/file
+[02:03:00.157] unityVersion: 2018.4.20f1
+[02:03:00.161] [Call] Awake
+[02:03:00.163] [DiscordManager] RoomChanged
+[02:03:00.164] [state] Local Player stats updated
+[02:03:00.169] [SaveAs<T>] Saved ModuleSettings\Instances.json
+[02:03:00.170] [KeyBinds] Alt+BackQuote(~) Home+Quit
+[02:03:00.171] [KeyBinds] Ctrl+L turn Light
+[02:03:00.172] [KeyBinds] Ctrl+M Toggle Mirrors
+[02:03:00.172] [KeyBinds] PageUp\T  Teleport
+[02:03:00.173] [KeyBinds] PageDown Fly
+[02:03:00.173] [KeyBinds] Space MultiJump
+[02:03:00.174] [KeyBinds] Home GoHome
+[02:03:00.174] [KeyBinds] Insert Reconnect
+[02:03:00.175] [KeyBinds] Delete delete portals
+[02:03:00.175] [KeyBinds] Pause Hear Only Friends
+[02:03:00.176] [KeyBinds] Escape before game loaded - close game
+[02:03:00.176] [KeyBinds] -----------------Premium-----------------
+[02:03:00.177] [KeyBinds] Ctrl+F5 Third Person
+[02:03:00.179] [KeyBinds] Ctrl+O Capsule ESP
+[02:03:00.184] NoChairs apply state : False
+[02:03:00.202] [SwitchAvatarPatchPrefix] Lufz Lufz All Black 3․0 avtr_8ace3254-482c-475d-875d-35c86b78b4f3
+[02:03:00.203] Asset url: https://api.vrchat.cloud/api/1/file/file_3630b95c-4bb5-412c-ac80-c45ef3a7e101/12/file
+[02:03:00.203] unityVersion: 2018.4.20f1
+[02:03:00.208] [SwitchAvatarPatchPrefix] Nukified Nuki Cancelled avtr_390e692e-3486-4f39-92fb-72ff06082ccd
+[02:03:00.209] Asset url: https://api.vrchat.cloud/api/1/file/file_cef92b75-d680-4984-8ae1-26267fd01b06/6/file
+[02:03:00.209] unityVersion: 2018.4.20f1
+[02:03:00.214] [SwitchAvatarPatchPrefix] Spooky2001 spooky boi avtr_dcd6a2a2-041c-4f11-b533-fb0f72af24f6
+[02:03:00.215] Asset url: https://api.vrchat.cloud/api/1/file/file_b617ef0d-3772-49b7-92e7-7ba987587cad/1/file
+[02:03:00.215] unityVersion: 2018.4.20f1
+[02:03:00.219] [SwitchAvatarPatchPrefix] VoxelVortex Bunny Boi （No Bandaid） avtr_e422c2af-c475-4665-9784-c42f639424b8
+[02:03:00.220] Asset url: https://api.vrchat.cloud/api/1/file/file_5e73864b-f1ed-4474-a97d-150309d3619f/1/file
+[02:03:00.220] unityVersion: 2017.4.28f1
+[02:03:00.225] [SwitchAvatarPatchPrefix] JNue Asher_JN avtr_673f9e72-ff8a-494f-8dee-24bf5142f868
+[02:03:00.225] Asset url: https://api.vrchat.cloud/api/1/file/file_254762eb-9cd8-4766-bbac-733c0fb7e398/1/file
+[02:03:00.226] unityVersion: 2018.4.20f1
+[02:03:00.230] [SwitchAvatarPatchPrefix] Tendalith Fae by Cupkake （Good Performance） avtr_7b378e32-2a9c-44b5-93f3-b705dc28c4da
+[02:03:00.230] Asset url: https://api.vrchat.cloud/api/1/file/file_58c7d510-b06f-42a6-b881-07d5ea7f87d7/2/file
+[02:03:00.231] unityVersion: 2018.4.20f1
+[02:03:00.264] [SwitchAvatarPatchPrefix] Dragon_King Winterboy avtr_3e1667d9-7f73-4132-8dcb-a293fc6dbec4
+[02:03:00.264] Asset url: https://api.vrchat.cloud/api/1/file/file_6e016578-23c2-4b78-abbe-449797b73bf8/4/file
+[02:03:00.265] unityVersion: 2018.4.20f1
+[02:03:00.271] [SwitchAvatarPatchPrefix] eloderung rex rave avtr_d09f01e5-0e08-4c3e-969b-7662531858db
+[02:03:00.271] Asset url: https://api.vrchat.cloud/api/1/file/file_3f512d06-3490-43a0-821b-9585a69b2c18/1/file
+[02:03:00.272] unityVersion: 2018.4.20f1
+[02:03:00.405] Fetched Online Users : 35856
+[02:03:00.431] [RoomManager] World Creator fetched no~
+[02:03:00.733] [RoomManager] Instance Owner fetched Lufz
+[02:03:01.139] AntiCrash itzRoss   avtr_713c5ed8-77e5-4275-a127-b58d5b0ed349
+[02:03:01.574] AntiCrash Lufz   avtr_8ace3254-482c-475d-875d-35c86b78b4f3
+[02:03:02.394] AntiCrash Spooky2001   avtr_dcd6a2a2-041c-4f11-b533-fb0f72af24f6
+[02:03:02.402] [ERROR] [MeshRenderers]  Avatar exceeded limit  118
+[02:03:02.414] [VRCAvatarManagerUtils] FieldInfoErrorPrefab found
+[02:03:02.426] OnAvatarCreated Spooky2001
+[02:03:02.556] AntiCrash VoxelVortex   avtr_e422c2af-c475-4665-9784-c42f639424b8
+[02:03:02.658] [AntiCrashForPlayers] original call
+[02:03:02.687] [AntiCrashForPlayers] original call
+[02:03:03.001] OnAvatarCreated Nukified
+[02:03:03.268] [AntiCrashForPlayers] original call
+[02:03:03.293] [PlaceUi]
+[02:03:03.344] OnAvatarCreated itzRoss
+[02:03:03.428] OnAvatarCreated Lufz
+[02:03:04.062] OnAvatarCreated VoxelVortex
+[02:03:05.838] PlayerLeft eloderung  userid:  usr_84ef5c31-08f0-4aca-88ef-781ba2c4b5e6
+[02:03:05.841] Photon player disconnected: eloderung
+[02:03:06.784] [CloseUi]
+[02:03:07.063] [emmVRCLoader] Player joined: itzRoss
+[02:03:07.171] [emmVRCLoader] Player joined: Lufz
+[02:03:07.177] [emmVRCLoader] Player joined: Nukified
+[02:03:07.178] [emmVRCLoader] Player joined: Spooky2001
+[02:03:07.180] [emmVRCLoader] Player joined: VoxelVortex
+[02:03:07.182] [emmVRCLoader] Player joined: JNue
+[02:03:07.184] [emmVRCLoader] Player joined: Tendalith
+[02:03:07.185] [emmVRCLoader] Player joined: Dragon_King
+[02:03:09.550] AntiCrash Tendalith   avtr_7b378e32-2a9c-44b5-93f3-b705dc28c4da
+[02:03:10.756] [AntiCrashForPlayers] original call
+[02:03:10.758] AntiCrash JNue   avtr_673f9e72-ff8a-494f-8dee-24bf5142f868
+[02:03:11.790] OnAvatarCreated Tendalith
+[02:03:12.756] [AntiCrashForPlayers] original call
+[02:03:13.564] [CheckURL]  https://www.twitch.tv/jnue
+[02:03:13.573] OnAvatarCreated JNue
+[02:03:18.918] AntiCrash Dragon_King   avtr_3e1667d9-7f73-4132-8dcb-a293fc6dbec4
+[02:03:20.725] [AntiCrashForPlayers] original call
+[02:03:21.438] OnAvatarCreated Dragon_King
+[02:03:29.876] [Avatars] (Posting) Created
+[02:03:42.772] [PlaceUi]
+[02:03:42.776] [OpenMenu] 
+[02:03:43.137] [CloseMenu] 
+[02:03:44.698] [PlaceUi]
+[02:03:44.703] [OpenMenu] 
+[02:03:45.559] [CloseMenu] 
+[02:03:47.745] [PlaceUi]
+[02:03:47.750] [OpenMenu] 
+[02:03:49.412] [CloseMenu] 
+[02:03:49.413] [PlaceUi]
+[02:03:49.423] [OpenUi] SCREEN  Settings
+[02:03:49.495] [PlaceUi]
+[02:03:52.424] [CloseUi]
+[02:03:57.413] Photon player connected: PyRex YVR
+[02:03:57.608] [SwitchAvatarPatchPrefix] PyRex YVR Zen․ 禅 avtr_05b4afce-509f-4860-92b2-48d05c812bc2
+[02:03:57.609] Asset url: https://api.vrchat.cloud/api/1/file/file_3e8c3f51-f83d-4dd6-9331-ad1c8f7ead44/3/file
+[02:03:57.610] unityVersion: 2017.4.28f1
+[02:03:57.612] [emmVRCLoader] Player joined: PyRex YVR
+[02:03:57.614] PlayerJoin PyRex YVR  userid:  usr_6e565bb9-1839-4b2a-be9f-1551eb59af9b
+[02:03:59.923] [Avatars] (Posting) Created
+[02:04:00.255] AntiCrash PyRex YVR   avtr_05b4afce-509f-4860-92b2-48d05c812bc2
+[02:04:00.474] [OnApplication] isFocused False
+[02:04:03.303] [AntiCrashForPlayers] original call
+[02:04:06.060] OnAvatarCreated PyRex YVR
+[02:04:21.141] Photon player connected: eloderung
+[02:04:21.430] [SwitchAvatarPatchPrefix] eloderung rex rave avtr_d09f01e5-0e08-4c3e-969b-7662531858db
+[02:04:21.431] Asset url: https://api.vrchat.cloud/api/1/file/file_3f512d06-3490-43a0-821b-9585a69b2c18/1/file
+[02:04:21.432] unityVersion: 2018.4.20f1
+[02:04:21.433] [emmVRCLoader] Player joined: eloderung
+[02:04:21.435] PlayerJoin eloderung  userid:  usr_84ef5c31-08f0-4aca-88ef-781ba2c4b5e6
+[02:04:21.466] AntiCrash eloderung   avtr_d09f01e5-0e08-4c3e-969b-7662531858db
+[02:04:23.777] [AntiCrashForPlayers] original call
+[02:04:26.577] OnAvatarCreated eloderung
+[02:04:28.047] Photon player connected: chunkynut0
+[02:04:28.335] [SwitchAvatarPatchPrefix] chunkynut0 Liz Opt avtr_fd55788f-04ea-4b1d-a101-c1cf9e521f18
+[02:04:28.335] Asset url: https://api.vrchat.cloud/api/1/file/file_56765725-f4c2-4942-9943-ff05f58a2830/1/file
+[02:04:28.336] unityVersion: 2018.4.20f1
+[02:04:28.337] [emmVRCLoader] Player joined: chunkynut0
+[02:04:28.339] PlayerJoin chunkynut0  userid:  usr_3e80e0dc-aa2d-419e-a8c7-822d5e15e04f
+[02:04:29.932] [Avatars] (Posting) Created
+[02:04:30.820] [OnApplication] isFocused True
+[02:04:32.137] AntiCrash chunkynut0   avtr_fd55788f-04ea-4b1d-a101-c1cf9e521f18
+[02:04:33.320] [AntiCrashForPlayers] original call
+[02:04:34.092] OnAvatarCreated chunkynut0
+[02:04:34.672] [OnApplication] isFocused False
+[02:04:36.393] [OnApplication] isFocused True
+[02:04:37.908] PlayerLeft PyRex YVR  userid:  usr_6e565bb9-1839-4b2a-be9f-1551eb59af9b
+[02:04:37.910] Photon player disconnected: PyRex YVR
+[02:04:41.032] [OnApplication] isFocused False
+[02:04:49.493] [OnApplication] isFocused True
+[02:04:51.825] [OnApplication] isFocused False
+[02:04:51.908] [OnApplication] isFocused True
+[02:04:52.494] Photon player connected: ZeTT121
+[02:04:52.821] [SwitchAvatarPatchPrefix] ZeTT121 ZeTT-Male-Final avtr_6cd460c7-79e6-485f-a703-256c2faa3c11
+[02:04:52.822] Asset url: https://api.vrchat.cloud/api/1/file/file_ebcad00a-2822-40b6-b265-78b853a333dc/3/file
+[02:04:52.823] unityVersion: 2018.4.20f1
+[02:04:52.824] [emmVRCLoader] Player joined: ZeTT121
+[02:04:52.826] PlayerJoin ZeTT121  userid:  usr_c2890a68-4e0d-45db-b085-3d65735d4136
+[02:04:53.015] [OnApplication] isFocused False
+[02:04:53.677] Photon player connected: -Anks-
+[02:04:54.326] [SwitchAvatarPatchPrefix] -Anks- Tribute Show Poseidon avtr_99559615-a909-42cc-b336-ce4df19eaeee
+[02:04:54.326] Asset url: https://api.vrchat.cloud/api/1/file/file_66f95bfe-e78d-4e8b-b822-86af974eaecd/2/file
+[02:04:54.327] unityVersion: 2018.4.20f1
+[02:04:54.329] [emmVRCLoader] Player joined: -Anks-
+[02:04:54.331] PlayerJoin -Anks-  userid:  usr_5a6942aa-144c-4036-bed3-e0aee8cfbb09
+[02:04:56.498] AntiCrash ZeTT121   avtr_6cd460c7-79e6-485f-a703-256c2faa3c11
+[02:04:57.196] AntiCrash -Anks-   avtr_99559615-a909-42cc-b336-ce4df19eaeee
+[02:04:58.948] [AntiCrashForPlayers] original call
+[02:04:59.986] [AntiCrashForPlayers] original call
+[02:05:00.113] [Avatars] (Posting) Created
+[02:05:01.705] OnAvatarCreated -Anks-
+[02:05:02.823] OnAvatarCreated ZeTT121
+[02:05:10.695] Photon player connected: arne TGaGSL
+[02:05:11.055] [SwitchAvatarPatchPrefix] arne TGaGSL Jayden avtr_cb3d0ee4-b90f-40a8-951c-00bcf2403181
+[02:05:11.055] Asset url: https://api.vrchat.cloud/api/1/file/file_446ae770-3854-4b3d-8a64-f75fc75740d1/3/file
+[02:05:11.056] unityVersion: 2018.4.20f1
+[02:05:11.067] [emmVRCLoader] Player joined: arne TGaGSL
+[02:05:11.070] PlayerJoin arne TGaGSL  userid:  usr_c42db92c-019e-467e-82a6-76dbe32e08ab
+[02:05:15.522] Photon player connected: ~Beside Him~
+[02:05:15.764] [SwitchAvatarPatchPrefix] ~Beside Him~ bh's property avtr_469bf9c4-7c68-4a18-8a17-3da3b73b0479
+[02:05:15.764] Asset url: https://api.vrchat.cloud/api/1/file/file_40172c91-2b93-4aab-9f72-3a25be843d93/1/file
+[02:05:15.765] unityVersion: 2018.4.20f1
+[02:05:15.776] [emmVRCLoader] Player joined: ~Beside Him~
+[02:05:15.779] PlayerJoin ~Beside Him~  userid:  usr_ff06718b-d427-4393-84fb-110f9f163578
+[02:05:16.406] Photon player connected: Kyukio
+[02:05:16.601] Photon player connected: JustAskJay
+[02:05:16.681] [SwitchAvatarPatchPrefix] Kyukio GuiGui Cat 3․0 avtr_ab124c53-ee58-4a8b-97fd-5bdf27cc1ad7
+[02:05:16.682] Asset url: https://api.vrchat.cloud/api/1/file/file_cda3d8ab-8478-4463-934d-f0a255a8af86/10/file
+[02:05:16.683] unityVersion: 2018.4.20f1
+[02:05:16.693] [emmVRCLoader] Player joined: Kyukio
+[02:05:16.696] PlayerJoin Kyukio  userid:  usr_9da4e21e-a8b2-4fa1-afff-7b8e33dc2971
+[02:05:17.370] [SwitchAvatarPatchPrefix] JustAskJay GuiGui Cat 3․0 avtr_ab124c53-ee58-4a8b-97fd-5bdf27cc1ad7
+[02:05:17.370] Asset url: https://api.vrchat.cloud/api/1/file/file_cda3d8ab-8478-4463-934d-f0a255a8af86/10/file
+[02:05:17.371] unityVersion: 2018.4.20f1
+[02:05:17.373] [emmVRCLoader] Player joined: JustAskJay
+[02:05:17.376] PlayerJoin JustAskJay  userid:  usr_741d8929-85f0-4403-8d27-54740e8c5454
+[02:05:20.952] AntiCrash ~Beside Him~   avtr_469bf9c4-7c68-4a18-8a17-3da3b73b0479
+[02:05:21.690] AntiCrash Kyukio   avtr_ab124c53-ee58-4a8b-97fd-5bdf27cc1ad7
+[02:05:21.732] AntiCrash JustAskJay   avtr_ab124c53-ee58-4a8b-97fd-5bdf27cc1ad7
+[02:05:24.004] [AntiCrashForPlayers] original call
+[02:05:24.044] [AntiCrashForPlayers] original call
+[02:05:26.909] OnAvatarCreated Kyukio
+[02:05:26.934] OnAvatarCreated JustAskJay
+[02:05:26.969] [AntiCrashForPlayers] original call
+[02:05:30.665] OnAvatarCreated ~Beside Him~
+[02:05:31.385] [Avatars] (Posting) Created
+[02:05:35.370] AntiCrash arne TGaGSL   avtr_cb3d0ee4-b90f-40a8-951c-00bcf2403181
+[02:05:37.561] [AntiCrashForPlayers] original call
+[02:05:40.461] OnAvatarCreated arne TGaGSL
+[02:05:41.815] [OnApplication] isFocused True
+[02:05:42.233] Voice Off
+[02:05:43.387] [OnApplication] isFocused False
+[02:05:47.203] Photon player connected: chaselight
+[02:05:47.492] [SwitchAvatarPatchPrefix] chaselight SoulEater EX avtr_c88f33d7-d69e-4e67-8549-d0de61a243e3
+[02:05:47.492] Asset url: https://api.vrchat.cloud/api/1/file/file_a35df875-416e-4465-aaef-f25a327656a8/2/file
+[02:05:47.493] unityVersion: 2017.4.28f1
+[02:05:47.495] [emmVRCLoader] Player joined: chaselight
+[02:05:47.498] PlayerJoin chaselight  userid:  usr_fa6892eb-904a-44e4-b064-d3f1d30d2819
+[02:05:48.414] AntiCrash chaselight   avtr_c88f33d7-d69e-4e67-8549-d0de61a243e3
+[02:05:51.524] [AntiCrashForPlayers] original call
+[02:05:54.281] OnAvatarCreated chaselight
+[02:06:01.391] [Avatars] (Posting) Created
+[02:06:14.866] Photon player connected: APackOfNewports
+[02:06:15.393] [SwitchAvatarPatchPrefix] APackOfNewport Newport Doggo avtr_3805f45b-24e3-4d9f-8fa2-7a484397ea5a
+[02:06:15.394] Asset url: https://api.vrchat.cloud/api/1/file/file_8ac3fcab-6bd1-46ba-a3f6-7b5458626c9b/2/file
+[02:06:15.395] unityVersion: 2018.4.20f1
+[02:06:15.396] [emmVRCLoader] Player joined: APackOfNewport
+[02:06:15.399] PlayerJoin APackOfNewport  userid:  usr_e726eb71-c15d-44cf-abe8-ccc34400cc14
+[02:06:16.373] AntiCrash APackOfNewport   avtr_3805f45b-24e3-4d9f-8fa2-7a484397ea5a
+[02:06:18.245] [AntiCrashForPlayers] original call
+[02:06:21.008] OnAvatarCreated APackOfNewport
+[02:06:31.429] [Avatars] (Posting) Created
+[02:06:47.663] PlayerLeft chunkynut0  userid:  usr_3e80e0dc-aa2d-419e-a8c7-822d5e15e04f
+[02:06:47.664] Photon player disconnected: chunkynut0
+[02:06:55.163] Photon player connected: OMEGA Immortal
+[02:06:55.412] [SwitchAvatarPatchPrefix] OMEGA Immortal OMEGA avtr_ef5b87f5-772d-409f-9d1e-eaa5c837a0d4
+[02:06:55.413] Asset url: https://api.vrchat.cloud/api/1/file/file_cd96251c-f900-494f-a382-05e8f695cc2d/1/file
+[02:06:55.414] unityVersion: 2018.4.20f1
+[02:06:55.415] [emmVRCLoader] Player joined: OMEGA Immortal
+[02:06:55.418] PlayerJoin OMEGA Immortal  userid:  usr_897a89f0-d145-4749-9f6f-cc602263ab5c
+[02:07:01.926] [Avatars] (Posting) Created
+[02:07:04.600] AntiCrash OMEGA Immortal   avtr_ef5b87f5-772d-409f-9d1e-eaa5c837a0d4
+[02:07:12.342] PlayerLeft arne TGaGSL  userid:  usr_c42db92c-019e-467e-82a6-76dbe32e08ab
+[02:07:12.343] Photon player disconnected: arne TGaGSL
+[02:07:15.217] [AntiCrashForPlayers] original call
+[02:07:17.990] OnAvatarCreated OMEGA Immortal
+[02:07:32.530] [Avatars] (Posting) Created
+[02:07:46.098] Photon player connected: WITHINSANITY
+[02:07:46.346] [SwitchAvatarPatchPrefix] WITHINSANITY Withinsanity 2 avtr_b45be94a-e86e-44b2-9b31-042f2cd4e7a0
+[02:07:46.347] Asset url: https://api.vrchat.cloud/api/1/file/file_a57e2590-cf28-451c-8f6a-ac460f29646d/8/file
+[02:07:46.347] unityVersion: 2018.4.20f1
+[02:07:46.389] [emmVRCLoader] Player joined: WITHINSANITY
+[02:07:46.392] PlayerJoin WITHINSANITY  userid:  usr_ee1996a5-1396-4fbb-858c-b7cbc81d9bc3
+[02:07:49.060] AntiCrash WITHINSANITY   avtr_b45be94a-e86e-44b2-9b31-042f2cd4e7a0
+[02:07:50.182] Photon player connected: ~Zyre~
+[02:07:50.591] [SwitchAvatarPatchPrefix] ~Zyre~ Teacup 6․1 avtr_eebf973b-b24f-4c3c-894c-04127f48e145
+[02:07:50.592] Asset url: https://api.vrchat.cloud/api/1/file/file_08e4c971-4653-4c0d-901f-984dc24f155f/1/file
+[02:07:50.593] unityVersion: 2018.4.20f1
+[02:07:50.594] [emmVRCLoader] Player joined: ~Zyre~
+[02:07:50.598] PlayerJoin ~Zyre~  userid:  usr_9c814d10-3405-404e-afbd-ca2a22ef5764
+[02:07:52.225] [AntiCrashForPlayers] original call
+[02:07:54.598] AntiCrash ~Zyre~   avtr_eebf973b-b24f-4c3c-894c-04127f48e145
+[02:07:54.999] OnAvatarCreated WITHINSANITY
+[02:07:56.552] [AntiCrashForPlayers] original call
+[02:07:59.319] OnAvatarCreated ~Zyre~
+[02:08:02.540] [Avatars] (Posting) Created
+[02:08:26.728] PlayerLeft OMEGA Immortal  userid:  usr_897a89f0-d145-4749-9f6f-cc602263ab5c
+[02:08:26.729] Photon player disconnected: OMEGA Immortal
+[02:08:45.218] Photon player connected: Bunny00
+[02:08:45.468] [SwitchAvatarPatchPrefix] Bunny00 black bunny avtr_2c3ceac4-e921-4d06-a6d3-0a82d5c0f455
+[02:08:45.468] Asset url: https://api.vrchat.cloud/api/1/file/file_c101ccd2-c139-439b-a23e-6f39e2287db0/2/file
+[02:08:45.469] unityVersion: 2017.4.28f1
+[02:08:45.471] [emmVRCLoader] Player joined: Bunny00
+[02:08:45.475] PlayerJoin Bunny00  userid:  usr_5cce3dc3-99d4-4f29-90d0-cf67df7f21fa
+[02:08:46.847] AntiCrash Bunny00   avtr_2c3ceac4-e921-4d06-a6d3-0a82d5c0f455
+[02:08:47.482] [ERROR] [SkinnedMeshRenderers]  Avatar exceeded limit sharedMesh poly 165328
+[02:08:47.567] OnAvatarCreated Bunny00
+[02:08:52.347] Photon player connected: Sephily
+[02:08:52.871] [SwitchAvatarPatchPrefix] Sephily New me avtr_07cb22c3-bd14-4830-9c5c-666c34ca2682
+[02:08:52.872] Asset url: https://api.vrchat.cloud/api/1/file/file_f6973fa8-e6a3-494d-9aba-dce03d5ab929/3/file
+[02:08:52.873] unityVersion: 2018.4.20f1
+[02:08:52.885] [emmVRCLoader] Player joined: Sephily
+[02:08:52.888] PlayerJoin Sephily  userid:  usr_5af4e4a7-69ec-45e3-9b2b-8c8d7dba116e
+[02:08:55.100] AntiCrash Sephily   avtr_07cb22c3-bd14-4830-9c5c-666c34ca2682
+[02:08:57.495] [AntiCrashForPlayers] original call
+[02:09:00.256] OnAvatarCreated Sephily
+[02:09:02.621] [Avatars] (Posting) Created
+[02:09:19.944] Photon player connected: Safety_Nomad
+[02:09:20.545] [SwitchAvatarPatchPrefix] Safety_Nomad Nomad V4 avtr_6e7f978f-216e-4d05-884e-4fba772240c9
+[02:09:20.546] Asset url: https://api.vrchat.cloud/api/1/file/file_10f91a3b-e6cb-4f1d-ab13-8a7519d3d432/1/file
+[02:09:20.547] unityVersion: 2018.4.20f1
+[02:09:20.558] [emmVRCLoader] Player joined: Safety_Nomad
+[02:09:20.562] PlayerJoin Safety_Nomad  userid:  usr_bf336041-06a7-4e42-bf5e-8174b689aa5e
+[02:09:24.732] AntiCrash Safety_Nomad   avtr_6e7f978f-216e-4d05-884e-4fba772240c9
+[02:09:27.604] [AntiCrashForPlayers] original call
+[02:09:30.363] OnAvatarCreated Safety_Nomad
+[02:09:55.070] [SwitchAvatarPatchPrefix] Tendalith Godprincess 2 avtr_bb288ca1-32f9-46ec-a5d3-51427e372d06
+[02:09:55.071] Asset url: https://api.vrchat.cloud/api/1/file/file_378e5abe-f9ed-41fc-a636-81538f91b7e3/2/file
+[02:09:55.072] unityVersion: 2018.4.20f1
+[02:10:07.718] Photon player connected: XAstroboomX
+[02:10:07.999] [SwitchAvatarPatchPrefix] XAstroboomX Akuma V3 avtr_2a350942-5923-402a-ab35-ea69fa5067cc
+[02:10:08.000] Asset url: https://api.vrchat.cloud/api/1/file/file_b28f9efc-94af-4a25-9da2-ac64351abe27/2/file
+[02:10:08.000] unityVersion: 2018.4.20f1
+[02:10:08.022] [emmVRCLoader] Player joined: XAstroboomX
+[02:10:08.026] PlayerJoin XAstroboomX  userid:  usr_92642e8e-9f79-4772-8782-d9ff17b4c39f
+[02:10:08.265] AntiCrash Tendalith   avtr_bb288ca1-32f9-46ec-a5d3-51427e372d06
+[02:10:08.945] [ERROR] [SkinnedMeshRenderers]  Avatar exceeded limit sharedMesh poly 222256
+[02:10:09.028] OnAvatarCreated Tendalith
+[02:10:12.603] AntiCrash XAstroboomX   avtr_2a350942-5923-402a-ab35-ea69fa5067cc
+[02:10:14.913] [AntiCrashForPlayers] original call
+[02:10:17.736] OnAvatarCreated XAstroboomX
+[02:10:21.854] [SwitchAvatarPatchPrefix] WITHINSANITY Biginsanity Opt avtr_2ce37c19-01bd-4b41-a74a-25b90117d5ff
+[02:10:21.855] Asset url: https://api.vrchat.cloud/api/1/file/file_6811d30d-cd39-4457-8b2b-9bc2408a89d4/4/file
+[02:10:21.856] unityVersion: 2018.4.20f1
+[02:10:26.915] AntiCrash WITHINSANITY   avtr_2ce37c19-01bd-4b41-a74a-25b90117d5ff
+[02:10:27.228] Photon player connected: Ray․․․
+[02:10:27.677] [SwitchAvatarPatchPrefix] Ray․․․ ray2․0 avtr_7dc4d02d-cb23-42e1-bb4f-0c48313255f0
+[02:10:27.678] Asset url: https://api.vrchat.cloud/api/1/file/file_a027af7f-3636-46ad-b4d5-170a9e9a2549/5/file
+[02:10:27.678] unityVersion: 2018.4.20f1
+[02:10:27.680] [emmVRCLoader] Player joined: Ray․․․
+[02:10:27.683] PlayerJoin Ray․․․  userid:  usr_d3feb13a-6708-49de-9761-946b18f01f0d
+[02:10:30.006] [AntiCrashForPlayers] original call
+[02:10:30.085] AntiCrash Ray․․․   avtr_7dc4d02d-cb23-42e1-bb4f-0c48313255f0
+[02:10:32.076] [AntiCrashForPlayers] original call
+[02:10:32.766] OnAvatarCreated WITHINSANITY
+[02:10:34.327] [Avatars] (Posting) Created
+[02:10:34.840] OnAvatarCreated Ray․․․
+[02:12:09.747] PlayerLeft Sephily  userid:  usr_5af4e4a7-69ec-45e3-9b2b-8c8d7dba116e
+[02:12:09.748] Photon player disconnected: Sephily
+[02:12:15.350] [SwitchAvatarPatchPrefix] ~Zyre~ Teacup SFW avtr_06c3a3b4-d9b8-4272-9651-b06dd235e137
+[02:12:15.350] Asset url: https://api.vrchat.cloud/api/1/file/file_77d622b1-c2a8-4cf3-a8b6-2f9f3d5ced47/1/file
+[02:12:15.351] unityVersion: 2018.4.20f1
+[02:12:18.979] AntiCrash ~Zyre~   avtr_06c3a3b4-d9b8-4272-9651-b06dd235e137
+[02:12:21.130] [AntiCrashForPlayers] original call
+[02:12:23.915] OnAvatarCreated ~Zyre~
+[02:12:24.302] PlayerLeft eloderung  userid:  usr_84ef5c31-08f0-4aca-88ef-781ba2c4b5e6
+[02:12:24.303] Photon player disconnected: eloderung
+[02:13:00.332] PlayerLeft ~Zyre~  userid:  usr_9c814d10-3405-404e-afbd-ca2a22ef5764
+[02:13:00.333] Photon player disconnected: ~Zyre~
+[02:13:08.565] PlayerLeft chaselight  userid:  usr_fa6892eb-904a-44e4-b064-d3f1d30d2819
+[02:13:08.566] Photon player disconnected: chaselight
+[02:14:20.649] [OnApplication] isFocused True
+[02:14:39.423] [OnApplication] isFocused False
+[02:14:50.941] PlayerLeft XAstroboomX  userid:  usr_92642e8e-9f79-4772-8782-d9ff17b4c39f
+[02:14:50.942] Photon player disconnected: XAstroboomX
+[02:14:55.652] [SwitchAvatarPatchPrefix] WITHINSANITY Withinsanity 2 avtr_b45be94a-e86e-44b2-9b31-042f2cd4e7a0
+[02:14:55.652] Asset url: https://api.vrchat.cloud/api/1/file/file_a57e2590-cf28-451c-8f6a-ac460f29646d/8/file
+[02:14:55.653] unityVersion: 2018.4.20f1
+[02:14:55.700] AntiCrash WITHINSANITY   avtr_b45be94a-e86e-44b2-9b31-042f2cd4e7a0
+[02:14:58.845] [AntiCrashForPlayers] original call
+[02:15:01.609] OnAvatarCreated WITHINSANITY
+[02:15:02.866] [OnApplication] isFocused True
+[02:15:25.284] Photon player connected: ǃFearBubba
+[02:15:25.698] [SwitchAvatarPatchPrefix] ǃFearBubba Bubba HArd？ avtr_b0d7ea3e-37ce-4f3e-9882-87ef12494ce9
+[02:15:25.699] Asset url: https://api.vrchat.cloud/api/1/file/file_3e2ca808-7f9c-41d9-9920-65d24a93569f/1/file
+[02:15:25.700] unityVersion: 2018.4.20f1
+[02:15:25.701] [emmVRCLoader] Player joined: ǃFearBubba
+[02:15:25.704] PlayerJoin ǃFearBubba  userid:  usr_29a398c4-2c2f-488c-b22f-8a60baac6d5f
+[02:15:25.932] OnAvatarCreated ǃFearBubba
+[02:15:27.363] [OnApplication] isFocused False
+[02:15:31.340] PlayerLeft Spooky2001  userid:  usr_fa90d438-2cd5-4f2c-8fcc-a4a04fd3a456
+[02:15:31.341] Photon player disconnected: Spooky2001
+[02:15:39.143] PlayerLeft APackOfNewport  userid:  usr_e726eb71-c15d-44cf-abe8-ccc34400cc14
+[02:15:39.144] Photon player disconnected: APackOfNewports
+[02:15:42.933] [SwitchAvatarPatchPrefix] ~Beside Him~ chaturguz avtr_f52b740b-0a16-4466-82bc-8ac579a2cdde
+[02:15:42.934] Asset url: https://api.vrchat.cloud/api/1/file/file_9543fda2-f254-42a3-abfb-aa37adeca603/1/file
+[02:15:42.935] unityVersion: 2018.4.20f1
+[02:15:43.070] [OnApplication] isFocused True
+[02:15:47.577] AntiCrash ~Beside Him~   avtr_f52b740b-0a16-4466-82bc-8ac579a2cdde
+[02:15:49.333] [AntiCrashForPlayers] original call
+[02:15:50.395] OnAvatarCreated ~Beside Him~
+[02:15:51.987] [OnApplication] isFocused False
+[02:16:00.358] Photon player connected: Ｅｓｕｎａ♔
+[02:16:01.844] [SwitchAvatarPatchPrefix] Ｅｓｕｎａ♔ dream of monky avtr_22d1f6b7-6cd6-49e0-918a-2942420a8e6a
+[02:16:01.844] Asset url: https://api.vrchat.cloud/api/1/file/file_3bac3cd4-917a-48a2-9872-027fbd7f63e5/41/file
+[02:16:01.845] unityVersion: 2018.4.20f1
+[02:16:01.847] [emmVRCLoader] Player joined: Ｅｓｕｎａ♔
+[02:16:01.850] PlayerJoin Ｅｓｕｎａ♔  userid:  usr_d90e1312-2716-4e02-8477-787b5aab66f6
+[02:16:05.328] [Avatars] (Posting) Created
+[02:16:06.049] AntiCrash Ｅｓｕｎａ♔   avtr_22d1f6b7-6cd6-49e0-918a-2942420a8e6a
+[02:16:08.044] [AntiCrashForPlayers] original call
+[02:16:10.802] OnAvatarCreated Ｅｓｕｎａ♔
+[02:16:24.445] Photon player connected: LadyKaida
+[02:16:24.805] [SwitchAvatarPatchPrefix] LadyKaida Tech Fox avtr_00af4dbc-bc91-4507-9ea6-35bab854afae
+[02:16:24.806] Asset url: https://api.vrchat.cloud/api/1/file/file_257d9538-6f76-4fbb-adcb-f7582deeed99/1/file
+[02:16:24.806] unityVersion: 2018.4.20f1
+[02:16:24.818] [emmVRCLoader] Player joined: LadyKaida
+[02:16:24.821] PlayerJoin LadyKaida  userid:  usr_48e66166-e3be-4806-a8af-91ddb84061ac
+[02:16:26.873] AntiCrash LadyKaida   avtr_00af4dbc-bc91-4507-9ea6-35bab854afae
+[02:16:28.905] [AntiCrashForPlayers] original call
+[02:16:31.264] OnAvatarCreated LadyKaida
+[02:16:35.468] [Avatars] (Posting) Created
+[02:16:41.405] Photon player connected: Old Style
+[02:16:41.973] [SwitchAvatarPatchPrefix] Old Style Owo avtr_fb1548a0-3483-43ab-812f-6dda164ddb00
+[02:16:41.974] Asset url: https://api.vrchat.cloud/api/1/file/file_2b45e900-18d0-4b38-b4e5-d084b96e3315/4/file
+[02:16:41.974] unityVersion: 2018.4.20f1
+[02:16:41.976] [emmVRCLoader] Player joined: Old Style
+[02:16:41.979] PlayerJoin Old Style  userid:  usr_15101786-381f-4180-a662-1a3c33a87eed
+[02:16:45.476] [SwitchAvatarPatchPrefix] ~Beside Him~ antifluxmucocele avtr_6eb54cc5-4f66-4863-bfbd-e4b06f286e67
+[02:16:45.476] Asset url: https://api.vrchat.cloud/api/1/file/file_dde6533c-6621-4995-8516-554b0653f92e/1/file
+[02:16:45.477] unityVersion: 2018.4.20f1
+[02:16:46.797] AntiCrash Old Style   avtr_fb1548a0-3483-43ab-812f-6dda164ddb00
+[02:16:49.269] [AntiCrashForPlayers] original call
+[02:16:50.347] AntiCrash ~Beside Him~   avtr_6eb54cc5-4f66-4863-bfbd-e4b06f286e67
+[02:16:52.622] OnAvatarCreated Old Style
+[02:16:53.019] [AntiCrashForPlayers] original call
+[02:16:55.779] OnAvatarCreated ~Beside Him~
+[02:17:05.919] [Avatars] (Posting) Created
+[02:17:35.949] [Avatars] (Posting) Created
+[02:17:43.680] Photon player connected: Messiah⛥
+[02:17:44.207] [SwitchAvatarPatchPrefix] Messiah⛥ Katsumi avtr_dc672c84-9c10-488d-bfd5-879b16feef1e
+[02:17:44.208] Asset url: https://api.vrchat.cloud/api/1/file/file_ade1bb80-128e-4ee1-bf14-4ad46b1fd271/1/file
+[02:17:44.209] unityVersion: 2018.4.20f1
+[02:17:44.221] [emmVRCLoader] Player joined: Messiah⛥
+[02:17:44.224] PlayerJoin Messiah⛥  userid:  usr_29d21c28-122a-43e8-ae0e-e498a647ff3d
+[02:17:48.717] [SwitchAvatarPatchPrefix] ~Beside Him~ undersecretaryhospitaler avtr_7cf77473-1e35-41d2-b60a-3f8768c38637
+[02:17:48.718] Asset url: https://api.vrchat.cloud/api/1/file/file_b325b8fc-3add-4acd-9f1a-6909dd482b65/1/file
+[02:17:48.718] unityVersion: 2018.4.20f1
+[02:17:54.566] AntiCrash ~Beside Him~   avtr_7cf77473-1e35-41d2-b60a-3f8768c38637
+[02:17:55.644] AntiCrash Messiah⛥   avtr_dc672c84-9c10-488d-bfd5-879b16feef1e
+[02:17:56.517] [AntiCrashForPlayers] original call
+[02:17:58.998] [AntiCrashForPlayers] original call
+[02:17:59.281] OnAvatarCreated ~Beside Him~
+[02:18:01.767] OnAvatarCreated Messiah⛥
+[02:18:04.076] PlayerLeft ǃFearBubba  userid:  usr_29a398c4-2c2f-488c-b22f-8a60baac6d5f
+[02:18:04.077] Photon player disconnected: ǃFearBubba
+[02:18:06.161] [Avatars] (Posting) Created
+[02:18:35.645] [SwitchAvatarPatchPrefix] ~Beside Him~ Maid Kyui avtr_47f6c883-af13-4080-a2cc-c553ffe59007
+[02:18:35.646] Asset url: https://api.vrchat.cloud/api/1/file/file_6ee14986-8f72-4076-b3e3-ef9646516b98/35/file
+[02:18:35.646] unityVersion: 2018.4.20f1
+[02:18:37.448] AntiCrash ~Beside Him~   avtr_47f6c883-af13-4080-a2cc-c553ffe59007
+[02:18:39.607] [AntiCrashForPlayers] original call
+[02:18:42.364] OnAvatarCreated ~Beside Him~
+[02:19:06.492] [Avatars] (Posting) Created
+[02:19:24.407] Photon player connected: Areina
+[02:19:24.807] [SwitchAvatarPatchPrefix] Areina Kunoichi uwu avtr_13dc8b3c-7820-4cc6-a838-f3fc17660982
+[02:19:24.808] Asset url: https://api.vrchat.cloud/api/1/file/file_d9192e53-95ba-479b-b2c2-d1ba0933b7ae/1/file
+[02:19:24.808] unityVersion: 2018.4.20f1
+[02:19:24.818] [emmVRCLoader] Player joined: Areina
+[02:19:24.822] PlayerJoin Areina  userid:  usr_b2259037-2285-409a-bda9-193c31a268b4
+[02:19:33.010] OnAvatarCreated Areina
+[02:20:10.934] Photon player connected: Alune
+[02:20:11.541] [SwitchAvatarPatchPrefix] Alune Demon avtr_b773a89b-fb3a-4c61-b57c-918e4c34307e
+[02:20:11.542] Asset url: https://api.vrchat.cloud/api/1/file/file_115392a9-f43c-4f7c-92ad-3f246d2a7293/11/file
+[02:20:11.542] unityVersion: 2018.4.20f1
+[02:20:11.543] [emmVRCLoader] Player joined: Alune
+[02:20:11.547] PlayerJoin Alune  userid:  usr_0cfe799c-cc83-4883-8f89-3d394d5e7253
+[02:20:18.087] AntiCrash Alune   avtr_b773a89b-fb3a-4c61-b57c-918e4c34307e
+[02:20:21.607] [AntiCrashForPlayers] original call
+[02:20:24.374] OnAvatarCreated Alune
+[02:20:50.274] [SwitchAvatarPatchPrefix] ~Beside Him~ bh's property avtr_a2aadfb2-0d01-41a8-8699-633e15f8f85f
+[02:20:50.275] Asset url: https://api.vrchat.cloud/api/1/file/file_c3dbe902-40b6-45ff-8ba4-8111802ac697/1/file
+[02:20:50.275] unityVersion: 2018.4.20f1
+[02:20:52.132] AntiCrash ~Beside Him~   avtr_a2aadfb2-0d01-41a8-8699-633e15f8f85f
+[02:20:55.162] [AntiCrashForPlayers] original call
+[02:20:57.919] OnAvatarCreated ~Beside Him~
+[02:21:06.375] PlayerLeft Ray․․․  userid:  usr_d3feb13a-6708-49de-9761-946b18f01f0d
+[02:21:06.377] Photon player disconnected: Ray․․․
+[02:21:07.103] [Avatars] (Posting) Created
+[02:21:38.047] [OnApplication] isFocused True
+[02:21:38.175] [PlaceUi]
+[02:21:38.181] [OpenMenu] 
+[02:21:39.096] [CloseMenu] 
+[02:22:02.635] [OnApplication] isFocused False
+[02:22:15.608] PlayerLeft JustAskJay  userid:  usr_741d8929-85f0-4403-8d27-54740e8c5454
+[02:22:15.609] Photon player disconnected: JustAskJay
+[02:22:25.402] PlayerLeft Old Style  userid:  usr_15101786-381f-4180-a662-1a3c33a87eed
+[02:22:25.403] Photon player disconnected: Old Style
+[02:22:33.498] PlayerLeft Bunny00  userid:  usr_5cce3dc3-99d4-4f29-90d0-cf67df7f21fa
+[02:22:33.498] Photon player disconnected: Bunny00
+[02:22:59.498] [SwitchAvatarPatchPrefix] Alune Lex avtr_f7e98105-28f6-40ab-ad27-1efc0c1315d5
+[02:22:59.499] Asset url: https://api.vrchat.cloud/api/1/file/file_3d0c4166-d758-4903-b183-2077ba506451/7/file
+[02:22:59.500] unityVersion: 2018.4.20f1
+[02:23:05.038] AntiCrash Alune   avtr_f7e98105-28f6-40ab-ad27-1efc0c1315d5
+[02:23:08.904] [AntiCrashForPlayers] original call
+[02:23:10.663] PlayerLeft WITHINSANITY  userid:  usr_ee1996a5-1396-4fbb-858c-b7cbc81d9bc3
+[02:23:10.664] Photon player disconnected: WITHINSANITY
+[02:23:11.974] OnAvatarCreated Alune
+[02:23:15.118] PlayerLeft Safety_Nomad  userid:  usr_bf336041-06a7-4e42-bf5e-8174b689aa5e
+[02:23:15.118] Photon player disconnected: Safety_Nomad
+[02:23:50.381] Photon player connected: ZiggySherbet
+[02:23:51.188] [SwitchAvatarPatchPrefix] ZiggySherbet ˢʰʸ Rin Sheep avtr_1972936d-8481-4486-a7f7-14f4f29a8687
+[02:23:51.190] Asset url: https://api.vrchat.cloud/api/1/file/file_32e79cde-b318-4ca7-9d24-823818dd1b68/1/file
+[02:23:51.190] unityVersion: 2017.4.15f1
+[02:23:51.192] [emmVRCLoader] Player joined: ZiggySherbet
+[02:23:51.195] PlayerJoin ZiggySherbet  userid:  usr_3b07ac52-8041-4f96-bbd0-d3f76bda4fa7
+[02:23:53.583] AntiCrash ZiggySherbet   avtr_1972936d-8481-4486-a7f7-14f4f29a8687
+[02:23:55.015] [AntiCrashForPlayers] original call
+[02:23:57.773] OnAvatarCreated ZiggySherbet
+[02:24:07.650] [Avatars] (Posting) Created
+[02:24:09.033] Photon player connected: naterD 678f
+[02:24:09.324] [SwitchAvatarPatchPrefix] naterD  SASSSKEEEEEEE avtr_bbb7df79-1f26-4c52-ba08-348bd28d6193
+[02:24:09.325] Asset url: https://api.vrchat.cloud/api/1/file/file_f8230eb6-6601-4c46-8266-c5bcf61e31a5/2/file
+[02:24:09.325] unityVersion: 2018.4.20f1
+[02:24:09.327] [emmVRCLoader] Player joined: naterD 
+[02:24:09.330] PlayerJoin naterD   userid:  usr_4aeadc3b-fd06-44a4-b089-882fad9f678f
+[02:24:10.151] Photon player connected: BiggBorbb
+[02:24:10.406] [SwitchAvatarPatchPrefix] BiggBorbb Female Borb avtr_a1ee1343-d419-482c-a033-44d5be388f4e
+[02:24:10.407] Asset url: https://api.vrchat.cloud/api/1/file/file_01f81be1-3b9d-4651-93f6-8d55df285651/1/file
+[02:24:10.407] unityVersion: 2018.4.2f1
+[02:24:10.409] [emmVRCLoader] Player joined: BiggBorbb
+[02:24:10.412] PlayerJoin BiggBorbb  userid:  usr_74c7c775-c11e-4570-aa15-2456f77414c9
+[02:24:12.243] AntiCrash naterD    avtr_bbb7df79-1f26-4c52-ba08-348bd28d6193
+[02:24:13.675] [AntiCrashForPlayers] original call
+[02:24:16.437] OnAvatarCreated naterD 
+[02:24:20.826] PlayerLeft Kyukio  userid:  usr_9da4e21e-a8b2-4fa1-afff-7b8e33dc2971
+[02:24:20.827] Photon player disconnected: Kyukio
+[02:24:23.781] AntiCrash BiggBorbb   avtr_a1ee1343-d419-482c-a033-44d5be388f4e
+[02:24:31.087] [SwitchAvatarPatchPrefix] ~Beside Him~ Laughing Coffin E-girl avtr_efcd45f1-8663-41d8-ae06-e3a0ab8186ff
+[02:24:31.088] Asset url: https://api.vrchat.cloud/api/1/file/file_61220763-10ff-4270-bbda-8b7201caf002/1/file
+[02:24:31.089] unityVersion: 2018.4.20f1
+[02:24:32.745] [OnApplication] isFocused True
+[02:24:35.110] AntiCrash ~Beside Him~   avtr_efcd45f1-8663-41d8-ae06-e3a0ab8186ff
+[02:24:35.550] [ERROR] [SkinnedMeshRenderers]  Avatar exceeded limit sharedMesh poly 175977
+[02:24:35.594] OnAvatarCreated ~Beside Him~
+[02:24:36.328] [AntiCrashForPlayers] original call
+[02:24:37.614] OnAvatarCreated BiggBorbb
+[02:24:38.089] [Avatars] (Posting) Created
+[02:24:43.442] PlayerLeft ~Beside Him~  userid:  usr_ff06718b-d427-4393-84fb-110f9f163578
+[02:24:43.444] Photon player disconnected: ~Beside Him~
+[02:24:59.657] PlayerLeft naterD   userid:  usr_4aeadc3b-fd06-44a4-b089-882fad9f678f
+[02:24:59.658] Photon player disconnected: naterD 678f
+[02:25:08.117] [Avatars] (Posting) Created
+[02:25:31.512] [OnApplication] isFocused False
+[02:25:36.180] [OnApplication] isFocused True
+[02:25:39.204] Photon player connected: Daddy Chai
+[02:25:39.544] [SwitchAvatarPatchPrefix] Daddy Chai For Chai because she needs the beef avtr_fcfb26f2-2f45-4480-8588-55e1734fb4a8
+[02:25:39.545] Asset url: https://api.vrchat.cloud/api/1/file/file_b5ee74ac-e3a0-4587-8ddc-7602df4c3f7e/1/file
+[02:25:39.546] unityVersion: 2018.4.20f1
+[02:25:39.547] [emmVRCLoader] Player joined: Daddy Chai
+[02:25:39.549] PlayerJoin Daddy Chai  userid:  usr_1d7d4325-9d36-4d90-a163-e6b6c38a598f
+[02:25:41.343] PlayerLeft VoxelVortex  userid:  usr_bb04b08c-82af-40d9-981d-f6adf55cba68
+[02:25:41.345] Photon player disconnected: VoxelVortex
+[02:25:41.546] AntiCrash Daddy Chai   avtr_fcfb26f2-2f45-4480-8588-55e1734fb4a8
+[02:25:41.948] [ERROR] [SkinnedMeshRenderers]  Avatar exceeded limit sharedMesh poly 238211
+[02:25:41.990] OnAvatarCreated Daddy Chai
+[02:25:53.931] PlayerLeft BiggBorbb  userid:  usr_74c7c775-c11e-4570-aa15-2456f77414c9
+[02:25:53.931] Photon player disconnected: BiggBorbb
+[02:26:08.620] [OnApplication] isFocused False
+[02:26:09.052] [Avatars] (Posting) Created
+[02:26:14.130] [OnApplication] isFocused True
