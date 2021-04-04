@@ -527,3 +527,43 @@ System.Reflection.TargetInvocationException: Exception has been thrown by the ta
 [01:48:55.879] [emmVRCLoader] Player joined: VoxelVortex
 [01:48:55.881] [emmVRCLoader] Player joined: MUZZ_
 [01:49:17.827] [Avatars] (Posting) Created
+[01:49:46.509] [OnApplication] isFocused True
+[01:49:56.283] [PlaceUi]
+[01:49:56.290] [OpenMenu] 
+[01:49:57.641] [CloseMenu] 
+[01:49:57.643] [PlaceUi]
+[01:49:57.654] [OpenUi] SCREEN  Settings
+[01:49:57.723] [PlaceUi]
+[01:49:59.146] [CloseUi]
+[01:50:09.047] [OnApplication] isFocused False
+[01:50:29.404] [OnApplication] isFocused True
+[01:51:30.166] PlayerLeft MUZZ_  userid:  usr_97b6e256-c441-4dde-9cb9-f29f78727f1d
+[01:51:30.656] Photon player disconnected: MUZZ_
+[01:52:31.890] [PlaceUi]
+[01:52:31.895] [OpenMenu] 
+[01:52:32.545] [CloseMenu] 
+[01:52:44.909] [OnApplication] isFocused False
+[01:52:46.596] [OnApplication] isFocused True
+[01:53:13.560] [CheckURL]  https://www.youtube.com/watch?v=kUs-q2lfcMw
+[01:55:59.578] [OnApplication] isFocused False
+[01:56:18.056] [CheckURL]  https://www.youtube.com/watch?v=x-lJyQ5wZSQ
+[01:58:11.370] [OnApplication] isFocused True
+[01:58:12.531] Voice Off
+[01:58:13.094] [DiscordManager] DiscordRpc.Shutdown
+[01:58:13.169] [Destination] found
+[01:58:13.172] [OnStateChanged] Leaving
+[01:58:13.357] [OnStateChanged] DisconnectingFromGameserver
+[01:58:13.518] Left Room
+[01:58:13.519] [DiscordManager] RoomChanged
+[01:58:13.520] [OnStateChanged] ConnectingToMasterserver
+[01:58:13.684] Voice On
+[01:58:14.152] [OnStateChanged] Authenticating
+[01:58:14.379] [OnStateChanged] ConnectedToMasterserver
+[01:58:14.812] ----------------World Info----------------
+[01:58:14.813] name : The Abyss
+[01:58:14.814] id : wrld_ffe773ba-c31f-4f56-928b-0da8f256e435
+[01:58:14.814] unityVersion : 2018.4.20f1
+[01:58:14.815] assetUrl : https://api.vrchat.cloud/api/1/file/file_ae35ad3a-74bd-44b7-a007-1e2823674796/47/file
+[01:58:14.815] authorName : VVolfly
+[01:58:14.816] authorId : usr_8ec2e59d-0182-42fa-b1d9-5fa7f99da1bc
+[01:58:14.816] SelectWorld inRoom : The Abyss wrld_ffe773ba-c31f-4f56-928b-0da8f256e435
